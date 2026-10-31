@@ -1,0 +1,1727 @@
+{
+  "score": 25,
+  "exact": 24.99,
+  "raw": 67.78,
+  "strict": {
+    "score": 25,
+    "exact": 24.99
+  },
+  "scorer": "v4-calibrated",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://www.katieteague.com/home/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 20,
+      "structure": 60,
+      "checkScore": 60.18518518518518,
+      "present": 1,
+      "exact": 19.844767316518595,
+      "raw": 60.248540494303185,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "freight-sans-pro 45.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.7px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 18",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Films for a more sane civilization.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 45.4px",
+              "imported": "Mukta 45.4px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.7px",
+              "imported": "Open Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#636363",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "2",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "7713px",
+              "imported": "4811px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 34
+        }
+      ],
+      "strict": {
+        "score": 20,
+        "exact": 19.844767316518595,
+        "structure": 60,
+        "checks": 60.18518518518518,
+        "present": 1,
+        "raw": 60.248540494303185
+      },
+      "visual": 0.604
+    },
+    {
+      "path": "/",
+      "original": "https://www.katieteague.com/home/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 21,
+      "structure": 62,
+      "checkScore": 61.95652173913044,
+      "present": 1,
+      "exact": 20.765551522978893,
+      "raw": 63.80851724289826,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "freight-sans-pro 34.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.1px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.sizeMobile = 17",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "19.2px",
+          "imported": "19.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Films for a more sane civilization.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 34.4px",
+              "imported": "Mukta 34.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.1px",
+              "imported": "Open Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#636363",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "9287px",
+              "imported": "6207px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 52
+        }
+      ],
+      "strict": {
+        "score": 21,
+        "exact": 20.765551522978893,
+        "structure": 62,
+        "checks": 61.95652173913044,
+        "present": 1,
+        "raw": 63.80851724289826
+      },
+      "visual": 0.694
+    },
+    {
+      "path": "/about",
+      "original": "https://www.katieteague.com/about/",
+      "imported": "/about (local preview)",
+      "viewport": 1440,
+      "score": 31,
+      "structure": 81,
+      "checkScore": 81.45161290322581,
+      "present": 1,
+      "exact": 30.89711408306069,
+      "raw": 76.7169403843485,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.7px",
+          "imported": "17.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "29.8px",
+          "imported": "29.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "330px",
+          "imported": "334px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "KATIE TEAGUE, Visual Storyteller & Threshold Guide",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#f4f7fc",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 26.4px",
+              "imported": "Mukta 23.5px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.7px",
+              "imported": "Open Sans 17.7px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#202020",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 43% wide",
+              "imported": "left, 31% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.31:1",
+              "imported": "1.56:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3064px",
+              "imported": "774px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 59
+        }
+      ],
+      "strict": {
+        "score": 31,
+        "exact": 30.89711408306069,
+        "structure": 81,
+        "checks": 81.45161290322581,
+        "present": 1,
+        "raw": 76.7169403843485
+      },
+      "visual": 0.625
+    },
+    {
+      "path": "/about",
+      "original": "https://www.katieteague.com/about/",
+      "imported": "/about (local preview)",
+      "viewport": 390,
+      "score": 15,
+      "structure": 28,
+      "checkScore": 27.77777777777778,
+      "present": 1,
+      "exact": 14.577912118176037,
+      "raw": 42.18560257469495,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Josefin Sans",
+          "imported": "Open Sans",
+          "ok": false,
+          "credit": 0,
+          "fix": "Site Styles → choices.typography.body = { family: \"Josefin Sans\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "24.6px",
+          "imported": "17.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.sizeMobile = 25",
+          "weight": 2
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "KATIE TEAGUE, Visual Storyteller & Threshold Guide",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#f4f7fc",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 22.5px",
+              "imported": "Mukta 19.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Josefin Sans 24.6px italic",
+              "imported": "Open Sans 17.1px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#202020",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 88% wide",
+              "imported": "center, 87% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.28:1",
+              "imported": "1.55:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3857px",
+              "imported": "1781px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 38
+        }
+      ],
+      "strict": {
+        "score": 15,
+        "exact": 14.577912118176037,
+        "structure": 28,
+        "checks": 27.77777777777778,
+        "present": 1,
+        "raw": 42.18560257469495
+      },
+      "visual": 0.854
+    },
+    {
+      "path": "/conflict-as-threshold",
+      "original": "https://www.katieteague.com/conflict-as-threshold/",
+      "imported": "/conflict-as-threshold (local preview)",
+      "viewport": 1440,
+      "score": 34,
+      "structure": 68,
+      "checkScore": 67.5,
+      "present": 1,
+      "exact": 33.74425578889512,
+      "raw": 67.4277097969057,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "14.3px",
+          "imported": "14px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "29.8px",
+          "imported": "29.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "950px",
+          "imported": "568px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 950",
+          "weight": 2
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Conflict as Rite of Passage",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#131313",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#ffffff\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 40.2px",
+              "imported": "Mukta 29.7px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2159px",
+              "imported": "810px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 34,
+        "exact": 33.74425578889512,
+        "structure": 68,
+        "checks": 67.5,
+        "present": 1,
+        "raw": 67.4277097969057
+      },
+      "visual": 0.672
+    },
+    {
+      "path": "/conflict-as-threshold",
+      "original": "https://www.katieteague.com/conflict-as-threshold/",
+      "imported": "/conflict-as-threshold (local preview)",
+      "viewport": 390,
+      "score": 42,
+      "structure": 57,
+      "checkScore": 57.142857142857146,
+      "present": 1,
+      "exact": 41.946259897458525,
+      "raw": 63.609762392681915,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "14.9px",
+          "imported": "14px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "24.6px",
+          "imported": "23.5px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Conflict as Rite of Passage",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#131313",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#ffffff\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 31.1px",
+              "imported": "Mukta 23.5px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2452px",
+              "imported": "630px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 42,
+        "exact": 41.946259897458525,
+        "structure": 57,
+        "checks": 57.142857142857146,
+        "present": 1,
+        "raw": 63.609762392681915
+      },
+      "visual": 0.83
+    },
+    {
+      "path": "/donate",
+      "original": "https://www.katieteague.com/donate/",
+      "imported": "/donate (local preview)",
+      "viewport": 1440,
+      "score": 38,
+      "structure": 81,
+      "checkScore": 80.83333333333333,
+      "present": 1,
+      "exact": 38.374079104707036,
+      "raw": 77.40789757999177,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "freight-sans-pro 45.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.7px",
+          "imported": "17.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1354px",
+          "imported": "720px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 1354",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "253px",
+          "imported": "120px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 253",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Make a Difference",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 45.4px",
+              "imported": "Mukta 45.4px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.7px",
+              "imported": "Open Sans 17.7px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "791px",
+              "imported": "543px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 88
+        }
+      ],
+      "strict": {
+        "score": 38,
+        "exact": 38.374079104707036,
+        "structure": 81,
+        "checks": 80.83333333333333,
+        "present": 1,
+        "raw": 77.40789757999177
+      },
+      "visual": 0.671
+    },
+    {
+      "path": "/donate",
+      "original": "https://www.katieteague.com/donate/",
+      "imported": "/donate (local preview)",
+      "viewport": 390,
+      "score": 55,
+      "structure": 83,
+      "checkScore": 82.63157894736842,
+      "present": 1,
+      "exact": 55.166653943014154,
+      "raw": 82.46681138107095,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "freight-sans-pro 34.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.1px",
+          "imported": "17.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "freight-sans-pro 19.2px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "160px",
+          "imported": "66px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 160",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Make a Difference",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "freight-sans-pro 34.4px",
+              "imported": "Mukta 34.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.1px",
+              "imported": "Open Sans 17.1px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "786px",
+              "imported": "576px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 97
+        }
+      ],
+      "strict": {
+        "score": 55,
+        "exact": 55.166653943014154,
+        "structure": 83,
+        "checks": 82.63157894736842,
+        "present": 1,
+        "raw": 82.46681138107095
+      },
+      "visual": 0.82
+    },
+    {
+      "path": "/education-for-teachers",
+      "original": "https://www.katieteague.com/education-for-teachers/",
+      "imported": "/education-for-teachers (local preview)",
+      "viewport": 1440,
+      "score": 38,
+      "structure": 85,
+      "checkScore": 84.6875,
+      "present": 1,
+      "exact": 38.21783395111615,
+      "raw": 80.06861259266742,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 94% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1665px",
+              "imported": "905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 38,
+        "exact": 38.21783395111615,
+        "structure": 85,
+        "checks": 84.6875,
+        "present": 1,
+        "raw": 80.06861259266742
+      },
+      "visual": 0.662
+    },
+    {
+      "path": "/education-for-teachers",
+      "original": "https://www.katieteague.com/education-for-teachers/",
+      "imported": "/education-for-teachers (local preview)",
+      "viewport": 390,
+      "score": 45,
+      "structure": 67,
+      "checkScore": 66.66666666666667,
+      "present": 1,
+      "exact": 44.80338159574194,
+      "raw": 69.94928340839212,
+      "checks": [],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 94% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2135px",
+              "imported": "1141px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 45,
+        "exact": 44.80338159574194,
+        "structure": 67,
+        "checks": 66.66666666666667,
+        "present": 1,
+        "raw": 69.94928340839212
+      },
+      "visual": 0.798
+    },
+    {
+      "path": "/films",
+      "original": "https://www.katieteague.com/films/",
+      "imported": "/films (local preview)",
+      "viewport": 1440,
+      "score": 31,
+      "structure": 72,
+      "checkScore": 71.95652173913044,
+      "present": 1,
+      "exact": 30.711669464258517,
+      "raw": 70.0764709165332,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.7px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 18",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "freight-sans-pro",
+          "imported": "Mukta (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"freight-sans-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "21.2px",
+          "imported": "21.2px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.02em, none",
+          "imported": "0.02em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "14.3px",
+          "imported": "14.3px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.01em, none",
+          "imported": "0.01em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "6.4px",
+          "imported": "8px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.7px",
+              "imported": "Open Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#636363",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2303px",
+              "imported": "1575px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        }
+      ],
+      "strict": {
+        "score": 31,
+        "exact": 30.711669464258517,
+        "structure": 72,
+        "checks": 71.95652173913044,
+        "present": 1,
+        "raw": 70.0764709165332
+      },
+      "visual": 0.644
+    },
+    {
+      "path": "/films",
+      "original": "https://www.katieteague.com/films/",
+      "imported": "/films (local preview)",
+      "viewport": 390,
+      "score": 32,
+      "structure": 54,
+      "checkScore": 53.84615384615385,
+      "present": 1,
+      "exact": 31.963557495842444,
+      "raw": 59.37010734887393,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Open Sans",
+          "imported": "Open Sans",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17.1px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.sizeMobile = 17",
+          "weight": 2
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Open Sans 17.1px",
+              "imported": "Open Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#636363",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1251px",
+              "imported": "415px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        }
+      ],
+      "strict": {
+        "score": 32,
+        "exact": 31.963557495842444,
+        "structure": 54,
+        "checks": 53.84615384615385,
+        "present": 1,
+        "raw": 59.37010734887393
+      },
+      "visual": 0.759
+    }
+  ]
+}

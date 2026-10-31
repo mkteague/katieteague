@@ -1,0 +1,83 @@
+{
+  "id": "pg_vj8859rkbp",
+  "title": "Our Team",
+  "slug": "our-team",
+  "sections": [
+    {
+      "id": "sec_7qpwakrd31",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_0z1hqsnb9s",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "First Name Last Name",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/justice-rising-echo-and-earl-7-kwgh.webp",
+                  "alt": "",
+                  "width": 1500,
+                  "height": 1000,
+                  "mediaId": "med_kwgh6rmkvm"
+                }
+              },
+              {
+                "heading": "First Name Last Name",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/download-281-29-k1c0.webp",
+                  "alt": "",
+                  "width": 500,
+                  "height": 500,
+                  "mediaId": "med_k1c0tzm7ze"
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

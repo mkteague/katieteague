@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "score": 25,
+  "strict": 25,
+  "scorer": "v4-calibrated",
+  "before": 25,
+  "changes": [
+    "text on light sections #000000, as on the original (3 of 3 sections)",
+    "heading on light sections #000000, as on the original (2 of 2 sections)"
+  ],
+  "strictBefore": 25,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 20,
+      "strict": 20,
+      "before": 20,
+      "strictBefore": 20,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Body text size",
+        "Text",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 21,
+      "strict": 21,
+      "before": 21,
+      "strictBefore": 21,
+      "image": "thumb-home-m.jpg",
+      "differs": [
+        "Body text size",
+        "Text",
+        "Heading 2: present"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "desktop",
+      "score": 31,
+      "strict": 31,
+      "before": 31,
+      "strictBefore": 31,
+      "image": "thumb-about-d.jpg",
+      "differs": [
+        "Text color",
+        "Italic lines",
+        "Image placement"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "phone",
+      "score": 15,
+      "strict": 15,
+      "before": 15,
+      "strictBefore": 15,
+      "image": "thumb-about-m.jpg",
+      "differs": [
+        "Body font",
+        "Body text size",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/conflict-as-threshold",
+      "device": "desktop",
+      "score": 34,
+      "strict": 34,
+      "before": 34,
+      "strictBefore": 34,
+      "image": "thumb-conflict-as-threshold-d.jpg",
+      "differs": [
+        "Content width",
+        "Background",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/conflict-as-threshold",
+      "device": "phone",
+      "score": 42,
+      "strict": 42,
+      "before": 42,
+      "strictBefore": 42,
+      "image": "thumb-conflict-as-threshold-m.jpg",
+      "differs": [
+        "Background",
+        "Heading",
+        "Italic lines"
+      ]
+    },
+    {
+      "path": "/donate",
+      "device": "desktop",
+      "score": 38,
+      "strict": 38,
+      "before": 37,
+      "strictBefore": 37,
+      "image": "thumb-donate-d.jpg",
+      "differs": [
+        "Content width",
+        "Heading 2: present",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/donate",
+      "device": "phone",
+      "score": 55,
+      "strict": 55,
+      "before": 54,
+      "strictBefore": 54,
+      "image": "thumb-donate-m.jpg",
+      "differs": [
+        "Heading 2: present",
+        "Buttons: present",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/education-for-teachers",
+      "device": "desktop",
+      "score": 38,
+      "strict": 38,
+      "before": 38,
+      "strictBefore": 38,
+      "image": "thumb-education-for-teachers-d.jpg",
+      "differs": [
+        "Image placement",
+        "Height"
+      ]
+    },
+    {
+      "path": "/education-for-teachers",
+      "device": "phone",
+      "score": 45,
+      "strict": 45,
+      "before": 46,
+      "strictBefore": 46,
+      "image": "thumb-education-for-teachers-m.jpg",
+      "differs": [
+        "Image placement",
+        "Height"
+      ]
+    },
+    {
+      "path": "/films",
+      "device": "desktop",
+      "score": 31,
+      "strict": 31,
+      "before": 31,
+      "strictBefore": 31,
+      "image": "thumb-films-d.jpg",
+      "differs": [
+        "Body text size",
+        "Text",
+        "Text color"
+      ]
+    },
+    {
+      "path": "/films",
+      "device": "phone",
+      "score": 32,
+      "strict": 32,
+      "before": 32,
+      "strictBefore": 32,
+      "image": "thumb-films-m.jpg",
+      "differs": [
+        "Body text size",
+        "Text",
+        "Text color"
+      ]
+    }
+  ]
+}

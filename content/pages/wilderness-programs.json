@@ -1,0 +1,111 @@
+{
+  "id": "pg_cq96my76g8",
+  "title": "Wilderness Programs",
+  "slug": "wilderness-programs",
+  "sections": [
+    {
+      "id": "sec_2hcs9g8007",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "brand",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/dreamstime-l-192654189-fdaa.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.23
+          }
+        },
+        "minHeight": {
+          "d": "100vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_6rabxmzx88",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "minHeight": {
+          "d": "57vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_p8wye43pk6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Becoming Human: The Four Shields Model of Nature-Based Therapeutics",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "May 15th, 2023 - May 20th, 2023 | Big Pine, California |Offered through The School of Lost Borders"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "During this six-day experiential ceremony, we will dive deep into the Four Shields, evoking each shield through teaching, solo time on the land, council, story-telling, and mirroring. Each shield will reveal its essence and provide a doorway to the next shield. We will also look at how the Four Shields teaching is used in wilderness rites of passage and how it can be applied in other therapeutic settings, schools, and organizations. This will be a hands-on, practical program, as well as a time to deepen your practice of becoming more fully human as a being on Earth."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_0ra7nvgwp0",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Find out more and register",
+            "link": {
+              "type": "url",
+              "url": "https://schooloflostborders.org/programs_courses/becoming-human-the-four-shields-model-of-nature-based-therapeutics-3/"
+            },
+            "role": "primary"
+          }
+        }
+      ]
+    }
+  ]
+}

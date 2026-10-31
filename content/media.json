@@ -1,0 +1,617 @@
+{
+  "media/2026/10/whidbey-institute-lab-2-t76f.webp": {
+    "id": "med_t76fcesmsd",
+    "path": "media/2026/10/whidbey-institute-lab-2-t76f.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 517940,
+    "width": 1500,
+    "height": 1011,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Whidbey Institute_lab-2.JPG",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/1-xk9z.webp": {
+    "id": "med_xk9zs9dqh5",
+    "path": "media/2026/10/1-xk9z.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 5474,
+    "width": 500,
+    "height": 100,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "1.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/in-the-making-tvz4.webp": {
+    "id": "med_tvz4v1fk4c",
+    "path": "media/2026/10/in-the-making-tvz4.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 57076,
+    "width": 1920,
+    "height": 1080,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "In the Making.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/glacier-lagoon-c0aq.webp": {
+    "id": "med_c0aqkd3473",
+    "path": "media/2026/10/glacier-lagoon-c0aq.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 184424,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Glacier Lagoon.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/screen-shot-2022-05-11-at-1-03-48-pm-etr9.webp": {
+    "id": "med_etr9xm3ws9",
+    "path": "media/2026/10/screen-shot-2022-05-11-at-1-03-48-pm-etr9.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 47380,
+    "width": 2400,
+    "height": 1350,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Screen Shot 2022-05-11 at 1.03.48 PM.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/img-2221-5evx.webp": {
+    "id": "med_5evxhb0j0x",
+    "path": "media/2026/10/img-2221-5evx.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 559828,
+    "width": 1800,
+    "height": 2400,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "IMG_2221.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/img-1659-2x09.webp": {
+    "id": "med_2x09rgj1xt",
+    "path": "media/2026/10/img-1659-2x09.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 540830,
+    "width": 2400,
+    "height": 1692,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "IMG_1659.JPG",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/abiquiu-lake-sunset-muted-r84m.webp": {
+    "id": "med_r84ms5szze",
+    "path": "media/2026/10/abiquiu-lake-sunset-muted-r84m.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 80984,
+    "width": 2400,
+    "height": 1543,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Abiquiu Lake Sunset Muted .jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/sunset-at-white-sands-d64n.webp": {
+    "id": "med_d64nt14stx",
+    "path": "media/2026/10/sunset-at-white-sands-d64n.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 42376,
+    "width": 2400,
+    "height": 1398,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Sunset_at_White_Sands.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/img-3902-e082.webp": {
+    "id": "med_e0825h6cx2",
+    "path": "media/2026/10/img-3902-e082.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 254110,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "IMG_3902.JPG",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/northern-lights-near-skogafoss-1x2v.webp": {
+    "id": "med_1x2vvtz6cx",
+    "path": "media/2026/10/northern-lights-near-skogafoss-1x2v.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 68820,
+    "width": 1200,
+    "height": 802,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Northern Lights near Skogafoss.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/img-5958-kh4q.webp": {
+    "id": "med_kh4qnev25k",
+    "path": "media/2026/10/img-5958-kh4q.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 534392,
+    "width": 1838,
+    "height": 1088,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "IMG_5958.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/natural-g0e1d6d074-1280-sghm.webp": {
+    "id": "med_sghmj167ka",
+    "path": "media/2026/10/natural-g0e1d6d074-1280-sghm.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 17390,
+    "width": 1279,
+    "height": 494,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "natural-g0e1d6d074_1280.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/unsplash-image-so-jmqj95ec-ga89.webp": {
+    "id": "med_ga892wk2ab",
+    "path": "media/2026/10/unsplash-image-so-jmqj95ec-ga89.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 293926,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "unsplash-image-sO-JmQj95ec.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-7-kwgh.webp": {
+    "id": "med_kwgh6rmkvm",
+    "path": "media/2026/10/justice-rising-echo-and-earl-7-kwgh.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 167928,
+    "width": 1500,
+    "height": 1000,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-7.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/download-281-29-k1c0.webp": {
+    "id": "med_k1c0tzm7ze",
+    "path": "media/2026/10/download-281-29-k1c0.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 40892,
+    "width": 500,
+    "height": 500,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "download %281%29.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/dreamstime-l-132911722-2-nf80.webp": {
+    "id": "med_nf80p2t0ax",
+    "path": "media/2026/10/dreamstime-l-132911722-2-nf80.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 399900,
+    "width": 2400,
+    "height": 1571,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "dreamstime_l_132911722-2.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/dreamstime-l-192654189-fdaa.webp": {
+    "id": "med_fdaa6yjh7k",
+    "path": "media/2026/10/dreamstime-l-192654189-fdaa.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 135072,
+    "width": 2400,
+    "height": 1210,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "dreamstime_l_192654189.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/unsplash-image-46-wftypvyq-3bq7.webp": {
+    "id": "med_3bq71f0mya",
+    "path": "media/2026/10/unsplash-image-46-wftypvyq-3bq7.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 205740,
+    "width": 2400,
+    "height": 1353,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "unsplash-image-46_wFTypvyQ.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/unsplash-image-vfzz1-lpttk-wztf.webp": {
+    "id": "med_wztfmgzgs6",
+    "path": "media/2026/10/unsplash-image-vfzz1-lpttk-wztf.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 63252,
+    "width": 2400,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "unsplash-image-vFzZ1_LPttk.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/istock-1352662134-w7qh.webp": {
+    "id": "med_w7qh6g21da",
+    "path": "media/2026/10/istock-1352662134-w7qh.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 60784,
+    "width": 2400,
+    "height": 1480,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "iStock-1352662134.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/unsplash-image-rsrtiofe0he-hkx8.webp": {
+    "id": "med_hkx87qrvpv",
+    "path": "media/2026/10/unsplash-image-rsrtiofe0he-hkx8.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 24784,
+    "width": 2400,
+    "height": 1240,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "unsplash-image-RsRTIofe0HE.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/kauai-beach-g4m8.webp": {
+    "id": "med_g4m8rjhhgx",
+    "path": "media/2026/10/kauai-beach-g4m8.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 220306,
+    "width": 1920,
+    "height": 1080,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Kauai_beach.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/kt-headshot-t43g.webp": {
+    "id": "med_t43g0s1bsb",
+    "path": "media/2026/10/kt-headshot-t43g.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 147268,
+    "width": 344,
+    "height": 344,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "KT headshot.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/aro-ha-0010-558z.webp": {
+    "id": "med_558zw10cpy",
+    "path": "media/2026/10/aro-ha-0010-558z.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 436924,
+    "width": 2400,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Aro Ha_0010.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/rectangle-25-4g4k.webp": {
+    "id": "med_4g4kvgh8kv",
+    "path": "media/2026/10/rectangle-25-4g4k.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 149084,
+    "width": 1525,
+    "height": 1144,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Rectangle 25.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/rectangle-26-8k3f.webp": {
+    "id": "med_8k3fpeebxd",
+    "path": "media/2026/10/rectangle-26-8k3f.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 108940,
+    "width": 1525,
+    "height": 1144,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Rectangle 26.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/rectangle-27-w327.webp": {
+    "id": "med_w327pfn26e",
+    "path": "media/2026/10/rectangle-27-w327.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 109208,
+    "width": 1525,
+    "height": 1144,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Rectangle 27.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-10-yn7g.webp": {
+    "id": "med_yn7gs0zk9s",
+    "path": "media/2026/10/justice-rising-echo-and-earl-10-yn7g.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 137932,
+    "width": 2400,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-10.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-23-g0qe.webp": {
+    "id": "med_g0qebk3r0t",
+    "path": "media/2026/10/justice-rising-echo-and-earl-23-g0qe.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 198620,
+    "width": 2000,
+    "height": 2400,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-23.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-15-jtve.webp": {
+    "id": "med_jtve2w0ebg",
+    "path": "media/2026/10/justice-rising-echo-and-earl-15-jtve.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 221428,
+    "width": 2400,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-15.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-21-aff2.webp": {
+    "id": "med_aff2gpw2xb",
+    "path": "media/2026/10/justice-rising-echo-and-earl-21-aff2.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 158164,
+    "width": 2400,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-21.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/in-the-making-cover-w1r3.webp": {
+    "id": "med_w1r30xdp68",
+    "path": "media/2026/10/in-the-making-cover-w1r3.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 44344,
+    "width": 1920,
+    "height": 1080,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "in the making_cover.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/donate-with-paypal-payment-button-free-p-1dnr.webp": {
+    "id": "med_1dnr4wvhnw",
+    "path": "media/2026/10/donate-with-paypal-payment-button-free-p-1dnr.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 22300,
+    "width": 850,
+    "height": 215,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "donate-with-paypal-payment-button-free-png-21635275830wcls7sprzu-1.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/screenshot-2025-10-01-at-16-51-18-0sa4.webp": {
+    "id": "med_0sa4zr53sm",
+    "path": "media/2026/10/screenshot-2025-10-01-at-16-51-18-0sa4.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 153780,
+    "width": 960,
+    "height": 763,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Screenshot 2025-10-01 at 16.51.18.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/download-6wbj.webp": {
+    "id": "med_6wbjghxmq2",
+    "path": "media/2026/10/download-6wbj.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 50728,
+    "width": 750,
+    "height": 500,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "download.jpeg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/download-1-qrh7.webp": {
+    "id": "med_qrh72xwtzy",
+    "path": "media/2026/10/download-1-qrh7.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 66136,
+    "width": 750,
+    "height": 500,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "download (1).jpeg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/justice-rising-echo-and-earl-3-tsqv.webp": {
+    "id": "med_tsqvh2yxzs",
+    "path": "media/2026/10/justice-rising-echo-and-earl-3-tsqv.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 88356,
+    "width": 1500,
+    "height": 1000,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "justice-rising-ECHO-AND-EARL-3.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/instagram-logo-768x432-bgyy.webp": {
+    "id": "med_bgyyqwvks1",
+    "path": "media/2026/10/instagram-logo-768x432-bgyy.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 46014,
+    "width": 768,
+    "height": 432,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Instagram-Logo-768x432.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/youtube-logo-png-transparent-background--4jk4.webp": {
+    "id": "med_4jk4b4ga3z",
+    "path": "media/2026/10/youtube-logo-png-transparent-background--4jk4.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 58828,
+    "width": 2136,
+    "height": 780,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "youtube-logo-png-transparent-background-download-3.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/10/patreon-logo-d3ff.webp": {
+    "id": "med_d3ffp8yepn",
+    "path": "media/2026/10/patreon-logo-d3ff.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 77126,
+    "width": 2400,
+    "height": 1350,
+    "alt": "",
+    "createdAt": "2026-10-31T19:25:03.296Z",
+    "originalName": "Patreon-Logo.png",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "pg_vhhgg0t6xa",
+  "title": "In the Making  (Copy)",
+  "slug": "in-the-making-1",
+  "seo": {
+    "title": "In the Making (Copy)"
+  },
+  "sections": [
+    {
+      "id": "sec_ny63x5chh7",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 11,
+          "m": 4
+        },
+        "items": {
+          "blk_d8xvqg9tv0": {
+            "d": {
+              "x": 4,
+              "y": 1,
+              "w": 18,
+              "h": 11,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 4,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_d8xvqg9tv0",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "code",
+              "code": "<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vTg2rjzVhK6dvAXobrBNzPysvVJkkSuDP9QtZne_rSm6lfLSzHr6M2qQf3pfJp7Fk4hLEs69YZP63z0/pub?embedded=true\"></iframe>\n  \n  \n\n\n\n</div>\n\n<style class=\"transform-overrides-vars\">\n  \n</style>"
+            },
+            "title": "Embedded content",
+            "aspect": "auto",
+            "height": 400
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_hb1h3045a2",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 54,
+          "m": 17
+        },
+        "items": {
+          "blk_e3fxrm8a6k": {
+            "d": {
+              "x": 5,
+              "y": 1,
+              "w": 16,
+              "h": 13,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 6,
+              "z": 1
+            }
+          },
+          "blk_zmj43gkafs": {
+            "d": {
+              "x": 5,
+              "y": 47,
+              "w": 15,
+              "h": 8,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 8,
+              "w": 8,
+              "h": 10,
+              "z": 3
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_e3fxrm8a6k",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=-0U5zuKN-L0"
+          }
+        },
+        {
+          "id": "blk_zmj43gkafs",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Donations of $1000 can be funneled through our fiscal sponsor (Open Field Awakening 501c3) for tax credit if requested."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Donations of $5000 or greater will be listed as an Executive Producer if desired."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "BTC: bc1q26zd26c8jwcx9tfhmuh4ry44rlrj9jspkc0pah"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ETH: 0x1Daa19959D4B4D05961EE71A8dD074aF7BD361f5"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

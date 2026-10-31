@@ -1,0 +1,941 @@
+{
+  "id": "pg_5sws9y9xdq",
+  "title": "About",
+  "slug": "about",
+  "sections": [
+    {
+      "id": "sec_dbn9a5jhva",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "brand",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/screen-shot-2022-05-11-at-1-03-48-pm-etr9.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.27
+          }
+        },
+        "minHeight": {
+          "d": "70vh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_c7rvv283c7",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 24,
+          "m": 63
+        },
+        "items": {
+          "blk_v9cack9788": {
+            "d": {
+              "x": 2,
+              "y": 3,
+              "w": 8,
+              "h": 12,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 11,
+              "z": 1
+            }
+          },
+          "blk_d86prjm6sv": {
+            "d": {
+              "x": 10,
+              "y": 3,
+              "w": 13,
+              "h": 22
+            },
+            "m": {
+              "x": 1,
+              "y": 13,
+              "w": 8,
+              "h": 26
+            }
+          },
+          "blk_0swvf4r4w2": {
+            "d": {
+              "x": 10,
+              "y": 5,
+              "w": 13,
+              "h": 20,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 40,
+              "w": 8,
+              "h": 24,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_v9cack9788",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/img-2221-5evx.webp",
+              "alt": "",
+              "width": 1800,
+              "height": 2400,
+              "mediaId": "med_5evxhb0j0x"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_d86prjm6sv",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h4"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "KATIE TEAGUE, Visual Storyteller & Threshold Guide"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_0swvf4r4w2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I was told by an elder once that I am someone who walks between worlds. It’s taken me decades to more fully grok what he meant. In service of Life’s unfolding story, I have a foot in the forest and a foot in technology, helping translate this time of planetary metamorphosis into image, form, and meaning."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My background lies at the intersection of depth psychology, systems change, integral studies, and wilderness rites of passage. I love holding council with groups and I love filmmaking, both arise from a devotion to the sacredness of Life. Through documentary and conversation with philosophers, mystics, positive deviants, and edge dwellers, I explore the shift from separation to kinship, from dominance, control and extraction to regeneration and cultural nourishment."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Story is one of humanity’s oldest technologies for remembering, renewing culture, and building worlds. When we tell stories that serve Life, we participate in the ongoing act of creation itself. My work invites audiences into that sacred remembering — to see, feel, and become part of the living world’s re-imagining of itself through us."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I sit on the board of 2 amazing non-profits: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "the School of Lost Borders",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://schooloflostborders.org/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " and "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Community Learning Network",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.communitylearningnetwork.org/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Equipment used:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Sony A7Siii"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Sony FX3"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Atomos Ninja V"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Mavic 4 Pro"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_hp41z92cmc",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 15,
+          "m": 28
+        },
+        "items": {
+          "blk_gat1m2e5h1": {
+            "d": {
+              "x": 2,
+              "y": 1,
+              "w": 22,
+              "h": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 2
+            }
+          },
+          "blk_y1qwnz5gg7": {
+            "d": {
+              "x": 13,
+              "y": 3,
+              "w": 11,
+              "h": 12,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 21,
+              "w": 8,
+              "h": 8,
+              "z": 1
+            }
+          },
+          "blk_6ewf6pm4th": {
+            "d": {
+              "x": 2,
+              "y": 3,
+              "w": 11,
+              "h": 13,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 4,
+              "w": 8,
+              "h": 16,
+              "z": 2
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_gat1m2e5h1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lineage (aka education + trainings):",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_y1qwnz5gg7",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/img-1659-2x09.webp",
+              "alt": "",
+              "width": 2400,
+              "height": 1692,
+              "mediaId": "med_2x09rgj1xt"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_6ewf6pm4th",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "BS in Natural Resources, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Sewanee",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://new.sewanee.edu",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "MA in Counseling Psychology, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Pacifica Graduate Institute",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.pacifica.edu",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Wilderness Rites of Passage, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "School of Lost Borders",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://schooloflostborders.org/programs/training/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Presence-Based Coaching, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Presence Based Coachin",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://presencebasedcoaching.com"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "g"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Aletheia Coaching (year 1), "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Integral Unfoldment",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://integralunfoldment.com",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Conflict Transformation, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Ken Cloke",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.kencloke.com",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Grief Tending, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Sophy Banks",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://grieftending.org",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Regenerative Practitioner Series, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Regenesis",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.regenerat.es/programs/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Generating Transformative Change, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Pacific Integral",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.pacificintegral.com/gtc-north-america"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Prosocial Practitioner Training, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Prosocial World",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.prosocial.world"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Warm Data Host, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Nora Bateson",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.peopleneedpeople.online",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Permaculture Design, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Regenerative Design Institute",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://regenerativedesign.org",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The Work that Reconnects, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "A.V. Galarza",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://living-flames.com/certificate-trabajo-que-reconecta/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Applied Complexity, "
+                            },
+                            {
+                              "type": "text",
+                              "text": "ACS, LLC",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://appliedcomplexity.io"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "attrs": {
+                            "preset": "small"
+                          },
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "And the greatest teacher of all "
+                            },
+                            {
+                              "type": "text",
+                              "text": "LIFE ITSELF",
+                              "marks": [
+                                {
+                                  "type": "bold"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "!"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_9yabeq6jj7",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 4,
+          "m": 5
+        },
+        "items": {
+          "blk_cwkgz9zp8r": {
+            "d": {
+              "x": 6,
+              "y": 1,
+              "w": 14,
+              "h": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 5
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/abiquiu-lake-sunset-muted-r84m.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "78vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_cwkgz9zp8r",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Stories have to be told or they die, and when they die, we can’t remember who we are or why we’re here."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Sue Monk Kidd"
+          }
+        }
+      ]
+    }
+  ]
+}

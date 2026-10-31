@@ -1,0 +1,1053 @@
+{
+  "id": "pg_fd1rd8hhd7",
+  "title": "In the Making Documentary",
+  "slug": "in-the-making",
+  "sections": [
+    {
+      "id": "sec_8k32rfztz2",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/in-the-making-cover-w1r3.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.05
+          }
+        },
+        "minHeight": {
+          "d": "66vh",
+          "m": "50vh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_5rk94d7z5g",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 121,
+          "m": 159
+        },
+        "items": {
+          "blk_k2nsvczr74": {
+            "d": {
+              "x": 6,
+              "y": 1,
+              "w": 14,
+              "h": 4,
+              "z": 13
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 4,
+              "z": 13
+            }
+          },
+          "blk_wcv2jbg3ct": {
+            "d": {
+              "x": 7,
+              "y": 4,
+              "w": 12,
+              "h": 3,
+              "z": 6
+            },
+            "m": {
+              "x": 1,
+              "y": 6,
+              "w": 8,
+              "h": 4,
+              "z": 6
+            }
+          },
+          "blk_edbfhppgpw": {
+            "d": {
+              "x": 5,
+              "y": 6,
+              "w": 16,
+              "h": 11,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 11,
+              "w": 8,
+              "h": 13,
+              "z": 5
+            }
+          },
+          "blk_jnh4a1yryr": {
+            "d": {
+              "x": 5,
+              "y": 16,
+              "w": 16,
+              "h": 13,
+              "z": 7
+            },
+            "m": {
+              "x": 1,
+              "y": 25,
+              "w": 8,
+              "h": 6,
+              "z": 7
+            }
+          },
+          "blk_snm8ywvy21": {
+            "d": {
+              "x": 6,
+              "y": 29,
+              "w": 14,
+              "h": 3,
+              "z": 8
+            },
+            "m": {
+              "x": 1,
+              "y": 32,
+              "w": 8,
+              "h": 4,
+              "z": 8
+            }
+          },
+          "blk_6fe7hpqrq1": {
+            "d": {
+              "x": 4,
+              "y": 31,
+              "w": 18,
+              "h": 64,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 37,
+              "w": 8,
+              "h": 77,
+              "z": 2
+            }
+          },
+          "blk_trf8j04tgd": {
+            "d": {
+              "x": 5,
+              "y": 99,
+              "w": 16,
+              "h": 23,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 120,
+              "w": 8,
+              "h": 28,
+              "z": 3
+            }
+          },
+          "blk_8qym5sjgav": {
+            "d": {
+              "x": 6,
+              "y": 109,
+              "w": 6,
+              "h": 3,
+              "z": 11
+            },
+            "m": {
+              "x": 1,
+              "y": 156,
+              "w": 8,
+              "h": 4,
+              "z": 11
+            }
+          },
+          "blk_5ncae16jgy": {
+            "d": {
+              "x": 13,
+              "y": 108,
+              "w": 5,
+              "h": 4,
+              "z": 10
+            },
+            "m": {
+              "x": 1,
+              "y": 149,
+              "w": 8,
+              "h": 6,
+              "z": 10
+            }
+          },
+          "blk_5g8e23v0q7": {
+            "d": {
+              "x": 6,
+              "y": 96,
+              "w": 14,
+              "h": 3,
+              "z": 12
+            },
+            "m": {
+              "x": 1,
+              "y": 115,
+              "w": 8,
+              "h": 4,
+              "z": 12
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_k2nsvczr74",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "code",
+              "code": "<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <div id=\"donation-bar\" class=\"donation-tracker\">\n    <div class=\"donation-info\">\n        <span id=\"donation-raised\" <=\"\" i=\"\"> $30,175</span> /\n        <span id=\"donation-goal\" <=\"\" i=\"\"> $60,000</span> Raised\n    </div>\n    <div class=\"progress-bar-wrapper\">\n        <div id=\"progress-bar\">\n            <div id=\"tooltip\">0%</div> <!-- Dedicated tooltip element -->\n        </div>\n    </div>\n</div>\n  \n  \n\n\n\n</div>\n\n<style class=\"transform-overrides-vars\">\n  \n</style>"
+            },
+            "title": "Embedded content",
+            "aspect": "auto",
+            "height": 400
+          }
+        },
+        {
+          "id": "blk_wcv2jbg3ct",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "lead"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "IN THE MAKING",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Living Through a Time Between Worlds",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_edbfhppgpw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "(working title)"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“Entanglement is more than a scientific description of physical or ecological systems —",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "it is the generative substrate of planetary ethics, the foundation of post-extractive economics, and the scaffolding for governance in a world without externalities.” ~ Indy Johar",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Logline: ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "In a time of unraveling systems and cascading eco-social crises, a constellation of designers, philosophers, and practitioners invite us to sense and inhabit other possibilities — from the logics of extraction and separation toward more desirable human and planetary futures, grounded in a profoundly relational understanding of what it means to be human "
+                    },
+                    {
+                      "type": "text",
+                      "text": "with",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " a living Earth. We are living through a civilizational intercycle — a great initiation — in which how we choose to live matters."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Core Message: ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "We are not just in a crisis of entangled consequences — we are in a planetary rite of passage. "
+                    },
+                    {
+                      "type": "text",
+                      "text": "We are not here to save the world. We are here to fall back in with love it.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_jnh4a1yryr",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=V1KwCMx22-g"
+          }
+        },
+        {
+          "id": "blk_snm8ywvy21",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This trailer is partially representative of the future film. We still have 5-6 more interviews to engage and have not yet developed certain creative elements that will assist in delivering the felt sense and aliveness of the film.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_6fe7hpqrq1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h4"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "More about the film:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We are living through the end of "
+                    },
+                    {
+                      "type": "text",
+                      "text": "a world",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " and what comes next is indeterminate, given the mind-bending complexities of today’s globalized reality. The potential for life-affirming futures exists and requires a profound shift in how we relate to ourselves, each other, the more than human world, and the systems we inhabit. This is not about fixing what’s broken, but about seeing differently, relating differently, attuning to the changing world and creating differently. This film is not a roadmap out of crisis or a rush to solutions. Rather, it is an invitation to become intimate with compounding uncertainty, complexity, and “the wicked mush” of living between worlds. We are not building a new world, we are composting what no longer serves and learning together to live beyond the conceptual boundaries of the familiar as a living field of becoming. This is not "
+                    },
+                    {
+                      "type": "text",
+                      "text": "the end",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", but a threshold. We are not seeking answers, but transformations."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What lies ahead is unknown, but from the compost heap, new forms of life — rooted in entangled and pluralistic realism and a radical reverence for the miracle of life — are already germinating in the soil of thousands of sincere experiments arising globally, but mostly outside the arena of mainstream media. These are emerging patterns of governance and coordination, of learning and growing more desirable futures together — largely developed through collaborative inspiration and networks based on shared values that serve life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Going by broad-stroke names of: regenerative economics, post growth initiatives, biomimetic technologies, Indigenous community/cultural/territorial renewal, decentralized governance, citizen assemblies, open civics, network nations, open source and peer-to-peer infrastructures, commoning, regenerative leadership, regenerative agriculture, bioregioning, cosmolocalism, mycelial networks, earth/kinship-based spirituality, reimagining schools and education. (This list is not exhaustive but intended to be illustrative.)"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These are compost scraps and fragments of potential, latent and unfolding. The purpose of this film is not to highlight any particular initiative or organization but to help make legible the contours of new patterns of world-building, to empower agency where too often stories of doom engender fear and helplessness. This film is not mapping the shift but participating in it. We cannot control outcomes, but conscious participation tends to generate more coherent, creative, and life-affirming responses."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We're living through what many consider the most significant liminal moment in human history — a double bind of moving beyond a paradigm while still living in it, a period of breakdown and breakthrough that could determine whether our species develops the collective wisdom necessary to navigate the unfolding challenges. Existential risk is real. Everything is at stake."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This film posits that some of humanity is undergoing a change at the very root of how we understand reality and ourselves — from isolated, separate individuals in a zero sum game to entangled becomings in the infinite game of the web of life. The film intends to give the audience a felt sense of this transformation, because once you really feel it in your bones, you can't go back. You can't unsee the living world. You can't pretend you're separate anymore. With this awareness our responses to the complex challenges of this time are more generative, often in surprising ways — ways that we could not have imagined from our current linear, disentangled, mechanistic, command and control mental models."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This film is especially for young adults (ages 20-35) — to help them make sense of the world that is dying and more importantly begin to see the edges of more desirable futures, embody a sense of belonging to the Earth and this emerging planetary era, and feel empowered to pour out their gifts to our collective unfolding story."
+                    }
+                  ]
+                },
+                {
+                  "type": "blockquote",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The film is an invitation to be a part of creating and nourishing the conditions for new life-affirming worlds to take root (ones that we would be proud to leave for future generations). And everyone has a role to play!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            },
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Central Question(s):",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What kind of human is the world now asking us to become? What new patterns are unfolding that are the building blocks for our world-building with reality?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Interviewees:",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Daniel Christian Wahl",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.danielchristianwahl.com/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Samantha Power",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.biofi.earth/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Bonnitta Roy",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://bonnittaroy.substack.com/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Austin Wade Smith",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "http://www.austinwadesmith.com/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Douglas Rushkoff",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://rushkoff.com/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Manda Scott",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://accidentalgods.life/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Aishwarya Khanduja",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://analoguegroup.org/team/aishwarya-khanduja",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Bayo Akomolafe",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.bayoakomolafe.net/",
+                                    "newTab": true
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Note: There are interviewees in the trailer not listed above. These are prior interviews and may or may not be in the final film. This list is interviews that have taken place recently or are scheduled. There may also be other future interviews (outreach still ongoing). All the interviews will be made available (separate from the film) in their entirety as well.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tone & Style:",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Cinematic, intellectual, and contemplative."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Each act will be composed of alternating interviews and high-quality, poetically narrated animation that gives a more experiential felt-sense of the terrain being traversed."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Uses visual metaphors: roots, mycelium, rivers, pulses, spirals, cracks, crossroads."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscillates between quiet depth and passionate urgency."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The film is polyphonic, a chorus of voices forming a coherent arc."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "colorTheme": "light"
+          }
+        },
+        {
+          "id": "blk_trf8j04tgd",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Help us make this film!"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Donations of $500 and above can be funneled through our fiscal sponsor (Open Field Awakening 501c3) for tax credit if requested. "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Contact us",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "mailto:katieteague@protonmail.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " and we will set that in motion!"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Donations of $5000 or greater will be listed as an Executive Producer (as an individual or organization or collective)."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We accept crypto:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "BTC: bc1q26zd26c8jwcx9tfhmuh4ry44rlrj9jspkc0pah"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ETH: 0x1Daa19959D4B4D05961EE71A8dD074aF7BD361f5"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "THANK YOU for supporting this humble effort in service of the beauty of Life!"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Katie + team"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "colorTheme": "light"
+          }
+        },
+        {
+          "id": "blk_8qym5sjgav",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/donate-with-paypal-payment-button-free-p-1dnr.webp",
+              "alt": "",
+              "width": 850,
+              "height": 215,
+              "mediaId": "med_1dnr4wvhnw"
+            },
+            "aspect": "original",
+            "lightbox": false,
+            "link": {
+              "type": "url",
+              "url": "https://www.paypal.com/donate/?hosted_button_id=FCMNRF3LDGRK6"
+            }
+          }
+        },
+        {
+          "id": "blk_5ncae16jgy",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/screenshot-2025-10-01-at-16-51-18-0sa4.webp",
+              "alt": "",
+              "width": 960,
+              "height": 763,
+              "mediaId": "med_0sa4zr53sm"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_5g8e23v0q7",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "code",
+              "code": "<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <div id=\"donation-bar\" class=\"donation-tracker\">\n    <div class=\"donation-info\">\n        <span id=\"donation-raised\" <=\"\" i=\"\"> $30,175</span> /\n        <span id=\"donation-goal\" <=\"\" i=\"\"> $60,000</span> Raised\n    </div>\n    \n        </div>\n    </div>"
+            },
+            "title": "Embedded content",
+            "aspect": "auto",
+            "height": 400
+          }
+        }
+      ]
+    }
+  ]
+}

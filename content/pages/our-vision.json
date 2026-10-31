@@ -1,0 +1,130 @@
+{
+  "id": "pg_f7qw07gnsh",
+  "title": "Our Vision",
+  "slug": "our-vision",
+  "sections": [
+    {
+      "id": "sec_hqqz1zz75f",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center",
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zr9er0swq0",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Educators are innovators."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Use this page to describe your company's mission and goals. Nullam tempor dolor sed nulla auctor, nec placerat felis sodales. Etiam et turpis mattis, efficitur mi ut, ultrices diam. Donec consectetur, odio eget porta varius, orci mauris viverra ante, eget egestas turpis sapien vel orci. Donec eu ornare augue, ut efficitur velit. Vestibulum et magna mattis, sollicitudin ligula ac, facilisis dui. Ut blandit lectus neque."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sit amet fringilla nisi mollis eget. Sed a eros nec leo euismod eleifend sit amet ut nisl blandit. Sed a eros nec leo euismod eleifend sit amet ut nisl. Nullam tempor dolor sed nulla auctor, nec placerat felis sodales. Etiam et turpis mattis, efficitur mi ut, ultrices diam. Donec consectetur, odio eget porta varius, orci mauris viverra ante, eget egestas turpis sapien vel orci mauris viverra."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "—"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Simone Lemoniere"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Executive Director, Mentor",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_0vw2zk6kr1",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/justice-rising-echo-and-earl-23-g0qe.webp",
+              "alt": "",
+              "width": 2000,
+              "height": 2400,
+              "mediaId": "med_g0qebk3r0t"
+            },
+            "aspect": "original",
+            "lightbox": false
+          },
+          "column": 1
+        }
+      ]
+    }
+  ]
+}

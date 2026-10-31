@@ -1,0 +1,964 @@
+{
+  "id": "pg_yc35m9ypk1",
+  "title": "In the Making Films",
+  "slug": "in-the-making-films",
+  "sections": [
+    {
+      "id": "sec_s7n8fbd430",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark-accent",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/in-the-making-tvz4.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.14
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_jngmewb6ck",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 50,
+          "m": 66
+        },
+        "items": {
+          "blk_3mv43hka3s": {
+            "d": {
+              "x": 2,
+              "y": 1,
+              "w": 11,
+              "h": 15,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 10,
+              "z": 2
+            }
+          },
+          "blk_esk0vy657c": {
+            "d": {
+              "x": 2,
+              "y": 18,
+              "w": 11,
+              "h": 15,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 23,
+              "w": 8,
+              "h": 10,
+              "z": 1
+            }
+          },
+          "blk_212cfmv48b": {
+            "d": {
+              "x": 2,
+              "y": 34,
+              "w": 11,
+              "h": 17,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 45,
+              "w": 8,
+              "h": 11,
+              "z": 2
+            }
+          },
+          "blk_a6k42m60yh": {
+            "d": {
+              "x": 13,
+              "y": 1,
+              "w": 11,
+              "h": 16,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 12,
+              "w": 8,
+              "h": 10,
+              "z": 3
+            }
+          },
+          "blk_bytt7m17bz": {
+            "d": {
+              "x": 13,
+              "y": 18,
+              "w": 11,
+              "h": 16,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 34,
+              "w": 8,
+              "h": 10,
+              "z": 2
+            }
+          },
+          "blk_nd33gef25m": {
+            "d": {
+              "x": 13,
+              "y": 34,
+              "w": 11,
+              "h": 16,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 57,
+              "w": 8,
+              "h": 10,
+              "z": 3
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_3mv43hka3s",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=whKW8Ox6GH8",
+            "caption": "ALIVING: learning to be in context with Nora Bateson, International Bateson Institute and Warm Data Labs."
+          }
+        },
+        {
+          "id": "blk_esk0vy657c",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=8so8cSb8bvA",
+            "caption": "Stewards of Life: living in right relationships with Daniel Christian Wahl, author of Designing Regenerative Cultures."
+          }
+        },
+        {
+          "id": "blk_212cfmv48b",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=fOx7r8OyXzw",
+            "caption": "Beneath Our Feet: participating with regenerative futures with Samantha Power (BioFi project), Austin Wade Smith (Regen Foundation), and Daniel Christian Wahl (author of Designing Regenerative Cultur…"
+          }
+        },
+        {
+          "id": "blk_a6k42m60yh",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=k81tyhECbM4",
+            "caption": "Becoming Human in a Time Between Worlds with Dr. Zak Stein, founder of the AI Psychological Research Coalition, and co-founder of Civilization Research Institute."
+          }
+        },
+        {
+          "id": "blk_bytt7m17bz",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=-0vrveNB73Y",
+            "caption": "Returning to Place: Finding Meaning in a Chaotic World with Samantha Power, co-founder of the BioFi Project."
+          }
+        },
+        {
+          "id": "blk_nd33gef25m",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=9CmSVGMBWEo",
+            "caption": "Introduction to Ecological Institutions with Austin Wade Smith (AWS) iExecutive Director of the Regen Foundation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_7yabp56bz0",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 79,
+          "m": 116
+        },
+        "items": {
+          "blk_j5s11s9jpw": {
+            "d": {
+              "x": 2,
+              "y": 1,
+              "w": 11,
+              "h": 11,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 7,
+              "z": 5
+            }
+          },
+          "blk_hy7ptgggfe": {
+            "d": {
+              "x": 2,
+              "y": 12,
+              "w": 11,
+              "h": 11,
+              "z": 10
+            },
+            "m": {
+              "x": 1,
+              "y": 9,
+              "w": 8,
+              "h": 7,
+              "z": 10
+            }
+          },
+          "blk_vx6x2tkh32": {
+            "d": {
+              "x": 13,
+              "y": 12,
+              "w": 11,
+              "h": 11,
+              "z": 11
+            },
+            "m": {
+              "x": 1,
+              "y": 26,
+              "w": 8,
+              "h": 7,
+              "z": 11
+            }
+          },
+          "blk_bk77frse04": {
+            "d": {
+              "x": 2,
+              "y": 23,
+              "w": 11,
+              "h": 11,
+              "z": 12
+            },
+            "m": {
+              "x": 1,
+              "y": 34,
+              "w": 8,
+              "h": 7,
+              "z": 12
+            }
+          },
+          "blk_3wgdmc4car": {
+            "d": {
+              "x": 13,
+              "y": 1,
+              "w": 11,
+              "h": 12,
+              "z": 6
+            },
+            "m": {
+              "x": 1,
+              "y": 17,
+              "w": 8,
+              "h": 8,
+              "z": 6
+            }
+          },
+          "blk_st2jxj0m4n": {
+            "d": {
+              "x": 13,
+              "y": 23,
+              "w": 11,
+              "h": 11,
+              "z": 9
+            },
+            "m": {
+              "x": 1,
+              "y": 42,
+              "w": 8,
+              "h": 7,
+              "z": 9
+            }
+          },
+          "blk_nhhw9x21cj": {
+            "d": {
+              "x": 13,
+              "y": 57,
+              "w": 11,
+              "h": 11,
+              "z": 11
+            },
+            "m": {
+              "x": 1,
+              "y": 102,
+              "w": 8,
+              "h": 7,
+              "z": 11
+            }
+          },
+          "blk_169qtkatr6": {
+            "d": {
+              "x": 13,
+              "y": 34,
+              "w": 11,
+              "h": 11,
+              "z": 13
+            },
+            "m": {
+              "x": 1,
+              "y": 58,
+              "w": 8,
+              "h": 7,
+              "z": 13
+            }
+          },
+          "blk_3qtjg5zqtt": {
+            "d": {
+              "x": 2,
+              "y": 45,
+              "w": 11,
+              "h": 12,
+              "z": 12
+            },
+            "m": {
+              "x": 1,
+              "y": 66,
+              "w": 8,
+              "h": 8,
+              "z": 12
+            }
+          },
+          "blk_37cbnfenb4": {
+            "d": {
+              "x": 13,
+              "y": 68,
+              "w": 11,
+              "h": 11,
+              "z": 13
+            },
+            "m": {
+              "x": 1,
+              "y": 110,
+              "w": 8,
+              "h": 7,
+              "z": 13
+            }
+          },
+          "blk_nb3mxw5zsp": {
+            "d": {
+              "x": 13,
+              "y": 45,
+              "w": 11,
+              "h": 12,
+              "z": 16
+            },
+            "m": {
+              "x": 1,
+              "y": 75,
+              "w": 8,
+              "h": 8,
+              "z": 16
+            }
+          },
+          "blk_b84w4xqjmk": {
+            "d": {
+              "x": 2,
+              "y": 57,
+              "w": 11,
+              "h": 12,
+              "z": 14
+            },
+            "m": {
+              "x": 1,
+              "y": 84,
+              "w": 8,
+              "h": 8,
+              "z": 14
+            }
+          },
+          "blk_gcftk2j70b": {
+            "d": {
+              "x": 2,
+              "y": 68,
+              "w": 11,
+              "h": 12,
+              "z": 15
+            },
+            "m": {
+              "x": 1,
+              "y": 93,
+              "w": 8,
+              "h": 8,
+              "z": 15
+            }
+          },
+          "blk_z6nhd3ncwk": {
+            "d": {
+              "x": 2,
+              "y": 34,
+              "w": 11,
+              "h": 11,
+              "z": 15
+            },
+            "m": {
+              "x": 1,
+              "y": 50,
+              "w": 8,
+              "h": 7,
+              "z": 15
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_j5s11s9jpw",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=jOIDXUxYi98",
+            "caption": "The Reality of Animism with Bonnitta Roy, founder of Alderlore Insight Center."
+          }
+        },
+        {
+          "id": "blk_hy7ptgggfe",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=IjOQB608ylQ",
+            "caption": "Living in the Metacrisis with Jonathan Rowson, Director of Perspectiva and author of the Joyous Struggle."
+          }
+        },
+        {
+          "id": "blk_vx6x2tkh32",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=kCyAqyp4Uwg",
+            "caption": "Jean Gebser and the Entanglement of Time with Jeremy Johnson, author and integral philosopher."
+          }
+        },
+        {
+          "id": "blk_bk77frse04",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=80QTfIEpMec",
+            "caption": "The Planetary Imaginary with Jeremy Johnson, author and integral philosopher."
+          }
+        },
+        {
+          "id": "blk_3wgdmc4car",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=WkXpgMWD_5I",
+            "caption": "The Great Turning with Joanna Macy, environmental activist, author, and scholar of Buddhism, general systems theory, and deep ecology."
+          }
+        },
+        {
+          "id": "blk_st2jxj0m4n",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=yMTFVlG5RLs",
+            "caption": "The Wicked Mush of the In-Between with Bonnitta Roy, founder of Alderlore Insight Center."
+          }
+        },
+        {
+          "id": "blk_nhhw9x21cj",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=EJLJhShxIWY",
+            "caption": "What is Wisdom? with Bonnitta Roy, founder of Alderlore Insight Center."
+          }
+        },
+        {
+          "id": "blk_169qtkatr6",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=6jE-hZXuhMY",
+            "caption": "Our Place in the Web of Life with Manda Scott, the Accidental Gods Podcast."
+          }
+        },
+        {
+          "id": "blk_3qtjg5zqtt",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=CTH7jbEzNF0",
+            "caption": "REVISIONING HISTORY: Gesturing Towards a Terrestrial Homecoming with Jeremy Johnson, author and integral philosopher."
+          }
+        },
+        {
+          "id": "blk_37cbnfenb4",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=ZFgXZv07beA",
+            "caption": "Epochal Change and the Nature of Mind with Bonnitta Roy, founder of Alderlore Insight Center."
+          }
+        },
+        {
+          "id": "blk_nb3mxw5zsp",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=_CDpldc5tss",
+            "caption": "The Signature of our Time with Cynthia Bourgeault, modern-day mystic, Episcopal priest, writer, and internationally known retreat leader."
+          }
+        },
+        {
+          "id": "blk_b84w4xqjmk",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=1McnxSdTrmg",
+            "caption": "At Work in the Ruins with Dougald Hine, social thinker, writer, speaker and the co-founder of the Dark Mountain Project and a school called HOME."
+          }
+        },
+        {
+          "id": "blk_gcftk2j70b",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=3O9cbKJg1l0",
+            "caption": "Metabolizing Life with Douglas Rushkoff, American media theorist, author, columnist, lecturer, graphic novelist, and documentarian."
+          }
+        },
+        {
+          "id": "blk_z6nhd3ncwk",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=qMTmNdI1Ng4",
+            "caption": "From the Skin of Things to the Bone of Things with the Nigerian born trickster Báyò Akólomáfe."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_nnngds3gmx",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 6,
+          "m": 13
+        },
+        "items": {
+          "blk_7rj34p1fvj": {
+            "d": {
+              "x": 7,
+              "y": 2,
+              "w": 12,
+              "h": 3,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 4,
+              "z": 2
+            }
+          },
+          "blk_chs3564hst": {
+            "d": {
+              "x": 7,
+              "y": 5,
+              "w": 5,
+              "h": 2,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 6,
+              "w": 8,
+              "h": 2,
+              "z": 3
+            }
+          },
+          "blk_6v1ec5yj2f": {
+            "d": {
+              "x": 10,
+              "y": 5,
+              "w": 6,
+              "h": 2,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 9,
+              "w": 8,
+              "h": 2,
+              "z": 4
+            }
+          },
+          "blk_09jc7k7pg3": {
+            "d": {
+              "x": 14,
+              "y": 5,
+              "w": 5,
+              "h": 2,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 12,
+              "w": 8,
+              "h": 2,
+              "z": 5
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_7rj34p1fvj",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h4"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Support "
+                    },
+                    {
+                      "type": "text",
+                      "text": "IN THE MAKING ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "for more high quality sense-making films in 2026!"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_chs3564hst",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "PayPal",
+            "link": {
+              "type": "url",
+              "url": "https://www.paypal.com/paypalme/katieteague"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_6v1ec5yj2f",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Venmo",
+            "link": {
+              "type": "url",
+              "url": "https://account.venmo.com/u/Katie-Teague"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_09jc7k7pg3",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Patreon",
+            "link": {
+              "type": "url",
+              "url": "https://www.patreon.com/c/inthemakingbetweenworlds"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_nhxq5fm10m",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 5,
+          "m": 6
+        },
+        "items": {
+          "blk_znm1zeqrhd": {
+            "d": {
+              "x": 4,
+              "y": 1,
+              "w": 18,
+              "h": 5,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 6,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/glacier-lagoon-c0aq.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "90vh",
+          "m": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_znm1zeqrhd",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I think one of the key journeys that we’re in the middle of is to reimagine ourselves as not just beings, but becomings."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Indy Johar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_r9403msct6",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 6,
+          "m": 7
+        },
+        "items": {
+          "blk_7893q9fhma": {
+            "d": {
+              "x": 2,
+              "y": 1,
+              "w": 22,
+              "h": 6,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 7,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_7893q9fhma",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "Email Address",
+            "buttonLabel": "Sign Up",
+            "successMessage": "Thank you!",
+            "description": "Sign up to receive updates and IN THE MAKING films fresh from the cutting room."
+          },
+          "variant": "stacked"
+        }
+      ]
+    }
+  ]
+}

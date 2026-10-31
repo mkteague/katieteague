@@ -1,39 +1,69 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Katieteague",
+  "title": "Katie Teague",
+  "tagline": "Katie Teague Films for a more sane civilization. Visual storyteller exploring the metacrisis and the emergence of a more convivial world.",
+  "logo": {
+    "src": "media/2026/10/1-xk9z.webp",
+    "alt": "Katie Teague",
+    "width": 500,
+    "height": 100
+  },
   "nav": [
     {
       "type": "page",
-      "page": "pg_k7z1qdk0zp",
+      "page": "pg_qh7vaye45z",
       "label": "Home"
+    },
+    {
+      "type": "page",
+      "page": "pg_yc35m9ypk1",
+      "label": "In the Making Films"
+    },
+    {
+      "type": "page",
+      "page": "pg_5sws9y9xdq",
+      "label": "About"
+    },
+    {
+      "type": "page",
+      "page": "pg_wyjbc72z3r",
+      "label": "Services"
+    },
+    {
+      "type": "button",
+      "label": "Contact",
+      "link": {
+        "type": "email",
+        "email": "katieteague@protonmail.com"
+      },
+      "style": "primary"
     }
   ],
   "header": {
     "variant": "classic-left",
-    "sticky": false,
+    "logoHeight": {
+      "d": 100,
+      "m": 30
+    },
+    "sticky": true,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_kj40n3w887",
+    "id": "sec_4xtb0m982c",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
-      }
+      "colorTheme": "light-accent"
     },
     "blocks": [
       {
-        "id": "blk_bbkb63n7s2",
+        "id": "blk_7j8y8jnh5e",
         "type": "text",
         "v": 1,
         "fields": {
@@ -42,18 +72,175 @@
             "content": [
               {
                 "type": "paragraph",
+                "attrs": {
+                  "preset": "lead"
+                },
                 "content": [
                   {
                     "type": "text",
-                    "text": "Katieteague"
+                    "text": "Please consider supporting my independent work"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "for the cost of a coffee per month on "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Patreon",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.patreon.com/inthemakingbetweenworlds"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
                   }
                 ]
               }
             ]
           }
+        },
+        "style": {
+          "align": {
+            "d": "center"
+          }
+        }
+      },
+      {
+        "id": "blk_w4fs394gwh",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/instagram-logo-768x432-bgyy.webp",
+            "alt": "",
+            "width": 768,
+            "height": 432,
+            "mediaId": "med_bgyyqwvks1"
+          },
+          "aspect": "original",
+          "lightbox": false,
+          "link": {
+            "type": "url",
+            "url": "https://www.instagram.com/katie_teague/"
+          }
+        }
+      },
+      {
+        "id": "blk_vz21cfy89y",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/youtube-logo-png-transparent-background--4jk4.webp",
+            "alt": "",
+            "width": 2136,
+            "height": 780,
+            "mediaId": "med_4jk4b4ga3z"
+          },
+          "aspect": "original",
+          "lightbox": false,
+          "link": {
+            "type": "url",
+            "url": "https://www.youtube.com/@inthemaking412"
+          }
+        }
+      },
+      {
+        "id": "blk_p8z56vw5t4",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/patreon-logo-d3ff.webp",
+            "alt": "",
+            "width": 2400,
+            "height": 1350,
+            "mediaId": "med_d3ffp8yepn"
+          },
+          "aspect": "original",
+          "lightbox": false,
+          "link": {
+            "type": "url",
+            "url": "https://www.patreon.com/inthemakingbetweenworlds"
+          }
+        }
+      },
+      {
+        "id": "blk_p97j97b37b",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "preset": "small"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "All visuals on this site are produced by Katie Teague Films.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "style": {
+          "align": {
+            "d": "center"
+          }
         }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/katie_teague/"
+    },
+    {
+      "network": "patreon",
+      "url": "https://www.patreon.com/inthemakingbetweenworlds"
+    },
+    {
+      "network": "youtube",
+      "url": "https://www.youtube.com/@inthemaking412"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Katie Teague",
+    "description": "Katie Teague Films for a more sane civilization. Visual storyteller exploring the metacrisis and the emergence of a more convivial world.",
+    "image": "media/2026/10/1-xk9z.webp"
+  },
+  "locale": "en-US",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  },
+  "redirects": [
+    {
+      "from": "/home",
+      "to": "/",
+      "status": 301
+    }
+  ]
 }

@@ -1,0 +1,295 @@
+{
+  "id": "pg_gbqmgwb3rk",
+  "title": "Individual Thresholding",
+  "slug": "individual-thresholding",
+  "sections": [
+    {
+      "id": "sec_7bykh78570",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/unsplash-image-46-wftypvyq-3bq7.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "95vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_r1ee5ebrx3",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It is wise in your own life to be able to recognize and acknowledge the key thresholds: to take your time; to feel all the varieties of presence that accrue there; to listen inward with complete attention until you hear the inner voice calling you forward. The time has come to cross."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "John O'Donohue"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_s3yp5smxxv",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 13,
+          "m": 16
+        },
+        "items": {
+          "blk_mgf5nv364m": {
+            "d": {
+              "x": 5,
+              "y": 4,
+              "w": 16,
+              "h": 8
+            },
+            "m": {
+              "x": 1,
+              "y": 4,
+              "w": 8,
+              "h": 10
+            }
+          },
+          "blk_bdsv0ce4s0": {
+            "d": {
+              "x": 9,
+              "y": 12,
+              "w": 8,
+              "h": 2,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 15,
+              "w": 8,
+              "h": 2,
+              "z": 1
+            }
+          },
+          "blk_mfsdh48p8b": {
+            "d": {
+              "x": 4,
+              "y": 1,
+              "w": 18,
+              "h": 2,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 2,
+              "z": 2
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "minHeight": {
+          "d": "63vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_mgf5nv364m",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The essence of the work:",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Thresholding is a supportive container to mark and actively engage a life transition. Within the overwhelm of the old story falling apart, lay the seeds of a new story germinating. These seeds take root as you cross the threshold and nourish your innate wisdom and inner resourcefulness — as you unfold, discover and express your whole self."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Braiding depth psychology, mentoring/coaching and nature-based ceremonial work — we will collaboratively unfold your journey by listening to the threshold calling you. Navigating the ordeal of this life passage with devotion and care will help clarify values, and support the embodiment of innate resourcefulness, creativity and your unique genius."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Meeting one-on-one online (with the possibility of in person work in the Blue Ridge Mountains of Virginia)."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_bdsv0ce4s0",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Connect for a discovery session",
+            "link": {
+              "type": "url",
+              "url": "https://calendly.com/thresholding"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_mfsdh48p8b",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h4"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Are you a Gen Z or Millennial longing for a guided space to embody more of who you authentically are and to discover who you are becoming?"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3ymytzj0bz",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 7,
+          "m": 8
+        },
+        "items": {
+          "blk_jw99g6t6pk": {
+            "d": {
+              "x": 7,
+              "y": 1,
+              "w": 12,
+              "h": 7
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 8
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/unsplash-image-vfzz1-lpttk-wztf.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "80vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_jw99g6t6pk",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "As with all rite of passage ceremonies, the goal is always to be in service to the greater community, not just human, but to all life. Rites of passage are not about fulfilling one’s unmet needs, but instead, to awaken one’s consciousness to act responsibly toward self, other, mystery, and the sacred. To help create the new story, longing to be told."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Betsy Perluss"
+          }
+        }
+      ]
+    }
+  ]
+}

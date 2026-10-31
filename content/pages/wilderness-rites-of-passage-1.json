@@ -1,0 +1,111 @@
+{
+  "id": "pg_8ktjsq9eny",
+  "title": "Wilderness Rites of Passage (Copy)",
+  "slug": "wilderness-rites-of-passage-1",
+  "sections": [
+    {
+      "id": "sec_0j9xv403sj",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/istock-1352662134-w7qh.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "100vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_k9vbfrf8e5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "blockquote",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "How can we support each other to grow into our humanness, and to recognize that it is not about reaching some kind of perfection, but it’s about wholeness? How do we help each other embrace all that we can be, the dark and the light, the fallible and the godly. We are grown through difficult times, and learn from making mistakes. . . We can only grow into it, and we can only support each other to grow into it with our own unique authenticity."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— Meredith Little"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3aqh5b6qzp",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_crgyv2qq3w",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Offering customized vision fast or programs for your community or team. Maximum participants of 10 people. The standard program is 12 days based on the bare bones ceremony as This ceremony involves several days of preparation together, 3-4 days of fasting alone in a wilderness place and a couple days of incorporation"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

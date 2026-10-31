@@ -1,0 +1,129 @@
+{
+  "id": "pg_wyw6q5hm06",
+  "title": "Materials for Learning",
+  "slug": "materials-for-learning",
+  "sections": [
+    {
+      "id": "sec_p2w08ngkrg",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark-accent",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/justice-rising-echo-and-earl-10-yn7g.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.15
+          }
+        },
+        "minHeight": {
+          "d": "90vh",
+          "m": "70vh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_9dkss0neh0",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8ze97x47y2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Materials for Learning"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt molli."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Praesent sit amet volutpat nulla. Duis iaculis nisl non nulla rhoncus, eget accumsan velit euismod. Nunc turpis enim, porta vel ligula vel, scelerisque scelerisque augue. Ut tincidunt eleifend dui eget sodales. Fusce aliquet metus quis congue egestas. Morbi in gravida magna. Morbi pulvinar fringilla sapien, vel ullamcorper tortor iaculis vel. Donec et scelerisque nunc."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra eleifend turpis. Donec lacinia quam nisi, ut varius tellus rhoncus sed. Maecenas sed maximus ligula, ut malesuada eros. Aliquam elementum at erat nec mattis. Nulla mollis augue id ligula lobortis, in iaculis felis commodo. Sed suscipit sodales nisi, id maximus lacus lobortis eget. Nunc porttitor purus non condimentum viverra. Suspendisse nec finibus lacus, a mattis sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi congue eu urna id venenatis. Morbi interdum porta ex sagittis consequat. Praesent sit amet nulla nisl."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pellentesque eget velit viverra, vestibulum purus in, luctus urna. Proin tincidunt, neque at fermentum sollicitudin, sem nisl pulvinar diam, sit amet elementum lorem nulla a leo. Curabitur id finibus arcu. Proin ornare quam lacus, et blandit felis pellentesque vitae. In sodales, felis a posuere accumsan, ipsum sem rutrum tortor, a aliquet massa ex sed risus. Nunc id magna sit amet sapien finibus hendrerit a nec tortor. Pellentesque ut nunc sed sapien lacinia varius. Fusce tincidunt diam id porttitor efficitur. Cras maximus justo ipsum, sit amet sagittis justo lobortis in."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

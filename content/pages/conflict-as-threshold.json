@@ -1,0 +1,271 @@
+{
+  "id": "pg_dvvw0ays8h",
+  "title": "Conflict as Threshold",
+  "slug": "conflict-as-threshold",
+  "sections": [
+    {
+      "id": "sec_7eq0ccrsyd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            3,
+            9
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/dreamstime-l-132911722-2-nf80.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "90vh",
+          "m": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_b1kvxbsn45",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h3"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Conflict as Rite of Passage"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ]
+    },
+    {
+      "id": "sec_qh624bjt4g",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 4,
+          "m": 7
+        },
+        "items": {
+          "blk_b10sj4wm0e": {
+            "d": {
+              "x": 5,
+              "y": 1,
+              "w": 16,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_yv2z9h2q4r": {
+            "d": {
+              "x": 1,
+              "y": 2,
+              "w": 24,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_tpt17zhbgd": {
+            "d": {
+              "x": 5,
+              "y": 3,
+              "w": 16,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 5,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_ssse7yq3v2": {
+            "d": {
+              "x": 1,
+              "y": 4,
+              "w": 24,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 7,
+              "w": 8,
+              "h": 1
+            }
+          }
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_b10sj4wm0e",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our true opponent and adversary in every conflict is always ourselves, and that the real purpose of conflict is, has always been, and can only be, to reveal what stands in the way of our learning and growth, our development of character, and our capacity for empathy and honesty, integrity and intimacy, caring and compassion."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Ken Cloke"
+          }
+        },
+        {
+          "id": "blk_yv2z9h2q4r",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Conflict as a rite of passage?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We experience conflict in the places where we are stuck, where connection has broken down — either between parts within ourselves or in relationship with others. My teacher Ken Cloke writes that conflict is “the sound made by cracks in the system” and it’s “the voice of a new paradigm.” In other words, the places where we are stuck are inviting us to grow and stretch into new skills, new capacities, into a new version of self. Opportunity lies hidden in the impasse."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_tpt17zhbgd",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The impediment to action advances action. What stands in the way becomes the way."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Marcus Aurelius"
+          }
+        },
+        {
+          "id": "blk_ssse7yq3v2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These challenging situations require our attention in order to increase self-awareness and embody what the conflict is teaching us. It’s about exploring the opportunities that exist within the discord and building the muscle of choice — learning to regulate our emotions so we can respond rather than react, live our values, and be able to interact with dignity, respect, and humility."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sometimes it serves to “work our stuff” independent from the actual conflict because it’s too heated, the other person may be out of communication or deceased, or any number of reasons the conflict is presenting itself to us as a threshold. Meaning we’re ready to dive into it because the story that’s held it all in place is no longer working."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "see and work through our conditioned tendencies"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

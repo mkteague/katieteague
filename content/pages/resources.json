@@ -1,0 +1,81 @@
+{
+  "id": "pg_raq61k145f",
+  "title": "Resources",
+  "slug": "resources",
+  "sections": [
+    {
+      "id": "sec_64rggvc3hq",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "brand",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/dreamstime-l-132911722-2-nf80.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.15
+          }
+        },
+        "minHeight": {
+          "d": "85vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_4v32gan3d9",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hcrtgck8k6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h4"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Coming Soon!"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

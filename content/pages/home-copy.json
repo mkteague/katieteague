@@ -1,0 +1,578 @@
+{
+  "id": "pg_bb3pvy77r0",
+  "title": "Home",
+  "slug": "home-copy",
+  "sections": [
+    {
+      "id": "sec_qq1whr50ft",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/img-5958-kh4q.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "80vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_p0ht5nm4x9",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The planet is at a threshold. Are you?"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "bespoke rites of passage for a time between worlds"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_vmb1x3nd5c",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 6,
+          "m": 11
+        },
+        "items": {
+          "blk_2tkghgag2a": {
+            "d": {
+              "x": 3,
+              "y": 1,
+              "w": 20,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_4pq0vjs8vn": {
+            "d": {
+              "x": 1,
+              "y": 2,
+              "w": 24,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_3zksnwv5vw": {
+            "d": {
+              "x": 3,
+              "y": 3,
+              "w": 20,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 5,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_8xjyk90s28": {
+            "d": {
+              "x": 1,
+              "y": 4,
+              "w": 24,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 7,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_rb97bet2s4": {
+            "d": {
+              "x": 3,
+              "y": 5,
+              "w": 20,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 9,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_39v8akmjrf": {
+            "d": {
+              "x": 1,
+              "y": 6,
+              "w": 24,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 11,
+              "w": 8,
+              "h": 1
+            }
+          }
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_2tkghgag2a",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "One world is now gone and a new one has yet to emerge; we are now at the beginning of the beginning. We are living in the liminal: a time of pure potential and change, a time between worlds. This is it: we have arrived at the end of the world. Finally. Now we can start to build a new one."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Zak Stein"
+          }
+        },
+        {
+          "id": "blk_4pq0vjs8vn",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The world is at a critical threshold as monumental as the shift from medieval Feudalism to the rise of the modern industrial society — a global phase shift that rendered the world space forever changed. In other words, we are living through an historical transformation in human civilization that is symptomatically irrupting as a global pandemic, geopolitical conflict, political warfare, climate chaos, financial instability, and social unrest. The multiple overlapping and interconnected crises facing us — the crisis of crises — is now commonly referred to as the “metacrisis.”"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Many liken the ordeal of the metacrisis to an initiation or rite of passage for humanity — from globalization to planetization. As William Irwin Thompson wrote prophetically (in his 1985 essay) “It’s Already Begun: The Planetary Age is an unacknowledged daily reality.” This threshold is rendering the institutions, policies and ideologies — the operating system of the last few hundred years increasingly inadequate to and incapable of solving the complex problems of today. Many of us are now acknowledging that the boat of humanity has slipped its existential mooring and we must learn to navigate the uncertainty of the unknown in order to co-create new realities."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_3zksnwv5vw",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A new world is opened up to our existence, a world whose ways are untrodden, its promises untried and its hopes still uncertain. The leap itself, however, can no longer be put off, for the call of this new life becomes ever more pressing; so one goes out from his old habitat and tries to find a footing in the unknown."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Ladislaus Boros"
+          }
+        },
+        {
+          "id": "blk_8xjyk90s28",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Traditionally, rites of passage are a necessary crisis — harmonizing with natural cycles — in which we are separated from life as we have known it in order for life and culture to regenerate, for new worlds to be born and a new self to be made. Beginnings require endings, with no outcome certain. That’s the ordeal — we must allow the unraveling and cross the threshold to discover where we are and what’s possible, to realize who we must become in the acknowledgement of daily reality and in love for the future of all life."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_rb97bet2s4",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ultimately a rite of passage is not about fulfilling our greatest dreams or our fantastic potentials, but about decentering ourselves enough to see the world as it truly is."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Betsy Perluss"
+          }
+        },
+        {
+          "id": "blk_39v8akmjrf",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Like our collective rite of passage, you too may feel yourself to be at a critical threshold — brought on by intractable challenges, bereavement, illness, loss of meaning and purpose, or the reckoning of developmental growth."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These ordeals de-center and plunge us into a dark night of the soul — a crisis of identity — disrupting our prior mental models and calling into question our basic assumptions about what it is to be human and what it means to live a good life. Within the disruption lay the seeds of an inner ripening — an encounter with soul — too often neglected in our shame-based, pull-yourself-up-by-your-bootstraps culture. Yet it’s just this ripening that the metacrisis points us toward for evolving self, systems, and society."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This is at the heart of Thresholding — a sacred space for you to honor the de-centering and nurture the ripening, to acknowledge what is dying and what is dying to be born. Thresholding is not self-improvement. Rather, it’s a somatic-based, nature-connected process of unfoldment, following the thread of soul calling us always to greater aliveness and participation. It’s a living inquiry into your essential nature untouched by time and who you are becoming in this “time between worlds.” Because, as William Stafford writes, “How you stand here is important. How you listen for the next things to happen. How you breathe.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_v8ettx191t",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 3,
+          "m": 7
+        },
+        "items": {
+          "blk_txgz5yycyc": {
+            "d": {
+              "x": 5,
+              "y": 1,
+              "w": 16,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_3g9z60qwpf": {
+            "d": {
+              "x": 1,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_vtaje55mz3": {
+            "d": {
+              "x": 9,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 5,
+              "w": 8,
+              "h": 1
+            }
+          },
+          "blk_e1kpvm6ytm": {
+            "d": {
+              "x": 17,
+              "y": 3,
+              "w": 8,
+              "h": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 7,
+              "w": 8,
+              "h": 1
+            }
+          }
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/natural-g0e1d6d074-1280-sghm.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "68vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_txgz5yycyc",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "At any time you can ask yourself: At which threshold am I now standing? At this time in my life, what am I leaving? Where am I about to enter?"
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "John O'Donohue"
+          }
+        },
+        {
+          "id": "blk_3g9z60qwpf",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Individual Thresholding",
+            "link": {
+              "type": "page",
+              "page": "pg_gbqmgwb3rk"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_vtaje55mz3",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Wilderness Rites of Passage",
+            "link": {
+              "type": "page",
+              "page": "pg_gndzhfyjyq"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_e1kpvm6ytm",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Wilderness Programs",
+            "link": {
+              "type": "page",
+              "page": "pg_qh7vaye45z"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_5k1899q6qm",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/unsplash-image-so-jmqj95ec-ga89.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "73vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_che3xqpxvb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "blockquote",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "We are going through dangerous times, radical shifts in thought and awareness are happening, we need support in finding our new place in relationship to the massive changes of fact and awareness. Rather than a lot of “experts” telling us how to be and act now, we hunger for assistance in finding our own way through to a healthier new paradigm. We need each other to witness our evolving story, and we need meaningful ways at appropriate times to formally mark stepping into a new phase of life and maturation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— Meredith Little"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "id": "pg_k40j4hfwke",
+  "title": "Giving Page 1",
+  "slug": "giving-page-1-1",
+  "sections": [
+    {
+      "id": "sec_rfpwdh9twj",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 11,
+          "m": 10
+        },
+        "items": {
+          "blk_wg77m2pmrc": {
+            "d": {
+              "x": 7,
+              "y": 4,
+              "w": 12,
+              "h": 8,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 10,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_wg77m2pmrc",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Make an"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "impact today"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Support our mission by contributing a donation."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0new23xkhr",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 21,
+          "m": 25
+        },
+        "items": {
+          "blk_y62mq18ts8": {
+            "d": {
+              "x": 8,
+              "y": 1,
+              "w": 10,
+              "h": 21,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 25,
+              "z": 5
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark-accent",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/in-the-making-tvz4.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_y62mq18ts8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "$10.00 $20.00 $30.00 $40.00 Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Donate Donate"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_165ddqwqqv",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9s93wycwv4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Why give?"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_c4r3286965",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "✽",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_w6q9zk265z",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/aro-ha-0010-558z.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.15
+          }
+        },
+        "minHeight": {
+          "d": "66vh",
+          "m": "50vh"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "id": "sec_285c0jsrx4",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 19,
+          "m": 53
+        },
+        "items": {
+          "blk_tpwh7gx35r": {
+            "d": {
+              "x": 16,
+              "y": 1,
+              "w": 8,
+              "h": 6,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 19,
+              "w": 8,
+              "h": 7,
+              "z": 3
+            }
+          },
+          "blk_bgxpvsgx19": {
+            "d": {
+              "x": 21,
+              "y": 5,
+              "w": 3,
+              "h": 4,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 27,
+              "w": 8,
+              "h": 9,
+              "z": 4
+            }
+          },
+          "blk_aj5b7vm2yx": {
+            "d": {
+              "x": 2,
+              "y": 6,
+              "w": 8,
+              "h": 6,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 11,
+              "w": 8,
+              "h": 7,
+              "z": 1
+            }
+          },
+          "blk_ym640s1xm3": {
+            "d": {
+              "x": 2,
+              "y": 2,
+              "w": 3,
+              "h": 4,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 9,
+              "z": 5
+            }
+          },
+          "blk_yxfcfkxv5e": {
+            "d": {
+              "x": 13,
+              "y": 14,
+              "w": 8,
+              "h": 6,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 47,
+              "w": 8,
+              "h": 7,
+              "z": 2
+            }
+          },
+          "blk_crj9ch6bpc": {
+            "d": {
+              "x": 9,
+              "y": 14,
+              "w": 3,
+              "h": 4,
+              "z": 6
+            },
+            "m": {
+              "x": 1,
+              "y": 37,
+              "w": 8,
+              "h": 9,
+              "z": 6
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_tpwh7gx35r",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“It all begins with an idea. Maybe you want to launch a business.”"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Keith Finley"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_bgxpvsgx19",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/rectangle-25-4g4k.webp",
+              "alt": "",
+              "width": 1525,
+              "height": 1144,
+              "mediaId": "med_4g4kvgh8kv"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_aj5b7vm2yx",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“It all begins with an idea. Maybe you want to launch a business.”"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Monet Goode"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_ym640s1xm3",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/rectangle-26-8k3f.webp",
+              "alt": "",
+              "width": 1525,
+              "height": 1144,
+              "mediaId": "med_8k3fpeebxd"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_yxfcfkxv5e",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“It all begins with an idea. Maybe you want to launch a business.”"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Channing Lee"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_crj9ch6bpc",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/rectangle-27-w327.webp",
+              "alt": "",
+              "width": 1525,
+              "height": 1144,
+              "mediaId": "med_w327pfn26e"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3s4xhx5169",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 17,
+          "m": 20
+        },
+        "items": {
+          "blk_dby00kbqnz": {
+            "d": {
+              "x": 7,
+              "y": 1,
+              "w": 12,
+              "h": 6
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 7
+            }
+          },
+          "blk_qmyqt4wmf8": {
+            "d": {
+              "x": 10,
+              "y": 8,
+              "w": 6,
+              "h": 10,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 9,
+              "w": 8,
+              "h": 12,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light-accent"
+      },
+      "blocks": [
+        {
+          "id": "blk_dby00kbqnz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Make a donation."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_qmyqt4wmf8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "$10.00 $20.00 $30.00 $40.00 Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Donate Donate"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_qfrd5qd6p5",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 12,
+          "m": 13
+        },
+        "items": {
+          "blk_k1j66shdey": {
+            "d": {
+              "x": 4,
+              "y": 1,
+              "w": 18,
+              "h": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 2
+            }
+          },
+          "blk_b4006f0yr7": {
+            "d": {
+              "x": 4,
+              "y": 5,
+              "w": 18,
+              "h": 8,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 4,
+              "w": 8,
+              "h": 10,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_k1j66shdey",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FAQs"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_b4006f0yr7",
+          "type": "accordion",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "question": "This is a frequently asked question?",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "This is a frequently asked question?",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "This is a frequently asked question?",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "This is a frequently asked question?",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "exclusive": false,
+            "openFirst": false,
+            "faqSchema": false
+          }
+        }
+      ]
+    }
+  ]
+}

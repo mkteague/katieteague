@@ -1,0 +1,262 @@
+{
+  "id": "pg_785g1b87fm",
+  "title": "Home (Copy)",
+  "slug": "home-1",
+  "sections": [
+    {
+      "id": "sec_anymd8qkxj",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 5,
+          "m": 6
+        },
+        "items": {
+          "blk_9vdevze0p4": {
+            "d": {
+              "x": 1,
+              "y": 1,
+              "w": 24,
+              "h": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 6
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/kauai-beach-g4m8.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "80vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_9vdevze0p4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Storytelling for a more thrivable world"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0fad24d60g",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 7,
+          "m": 7
+        },
+        "items": {
+          "blk_aqjsbf9am0": {
+            "d": {
+              "x": 6,
+              "y": 2,
+              "w": 14,
+              "h": 6,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 7,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_aqjsbf9am0",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "One world is now gone and a new one has yet to emerge; we are now at the beginning of the beginning. We are living in the liminal: a time of pure potential and change, a time between worlds. This is it: we have arrived at the end of the world. Finally. Now we can start to build a new one."
+                    }
+                  ]
+                }
+              ]
+            },
+            "attribution": "Zak Stein"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3f30yx9xrt",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 8,
+          "m": 18
+        },
+        "items": {
+          "blk_4f5q27f09t": {
+            "d": {
+              "x": 10,
+              "y": 3,
+              "w": 12,
+              "h": 3,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 12,
+              "w": 8,
+              "h": 4,
+              "z": 1
+            }
+          },
+          "blk_g6jhw73zhb": {
+            "d": {
+              "x": 4,
+              "y": 2,
+              "w": 5,
+              "h": 7
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 10
+            }
+          },
+          "blk_b4x89c0249": {
+            "d": {
+              "x": 10,
+              "y": 6,
+              "w": 3,
+              "h": 2,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 17,
+              "w": 8,
+              "h": 2,
+              "z": 2
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark-accent"
+      },
+      "blocks": [
+        {
+          "id": "blk_4f5q27f09t",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "small"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My mission is supporting next-gen (Millenial and Gen Z) change agents, sense-makers, post-activists, cultural misfits and emerging leaders surfing the liminal and playing at the knife’s edge of the rising regenerative era – building a new paradigm, thrivable world-space."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_g6jhw73zhb",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/kt-headshot-t43g.webp",
+              "alt": "",
+              "width": 344,
+              "height": 344,
+              "mediaId": "med_t43g0s1bsb"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_b4x89c0249",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Read more",
+            "link": {
+              "type": "page",
+              "page": "pg_5sws9y9xdq"
+            },
+            "role": "secondary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

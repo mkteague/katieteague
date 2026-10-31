@@ -1,17 +1,105 @@
 {
-  "$schema": "https://schema.openspace.host/v1/styles.json",
   "choices": {
     "palette": {
-      "brand": "oklch(0.45 0.05 250)",
-      "neutral": "warm",
+      "brand": "#253551",
+      "neutral": "pure",
       "contrast": "standard",
-      "source": "curated"
+      "source": "brand"
     },
-    "pairing": "fraunces-hanken",
+    "pairing": "merriweather-open-sans",
     "density": "comfortable",
     "shape": "soft",
-    "buttons": "solid",
+    "buttons": "outline",
     "motion": "subtle",
-    "imageTreatment": "none"
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Mukta",
+        "category": "sans-serif",
+        "weights": [
+          600
+        ]
+      },
+      "body": {
+        "family": "Open Sans",
+        "category": "sans-serif",
+        "weights": [
+          400,
+          600
+        ]
+      },
+      "scale": {
+        "h2": {
+          "size": 45.4,
+          "sizeMobile": 34.4,
+          "lineHeight": 1.21,
+          "letterSpacing": 0.02,
+          "case": "none",
+          "weight": 600
+        },
+        "body": {
+          "size": 17.7,
+          "sizeMobile": 17.1,
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "case": "none"
+        },
+        "h3": {
+          "size": 29.7,
+          "lineHeight": 1.16,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 600
+        },
+        "h4": {
+          "size": 23.5,
+          "lineHeight": 1.23,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 600
+        },
+        "button": {
+          "size": 21.2,
+          "sizeMobile": 19.2,
+          "lineHeight": 0.91,
+          "letterSpacing": 0.02,
+          "case": "none",
+          "weight": 600,
+          "font": "heading"
+        },
+        "nav": {
+          "size": 14.3,
+          "lineHeight": 1.4,
+          "letterSpacing": 0.01,
+          "case": "none",
+          "weight": 400,
+          "font": "body"
+        },
+        "wordmark": {
+          "size": 14.3,
+          "lineHeight": 1.4,
+          "letterSpacing": 0.01,
+          "case": "none",
+          "weight": 400,
+          "font": "body"
+        }
+      }
+    }
+  },
+  "overrides": {
+    "color": {
+      "light": {
+        "text": {
+          "$type": "color",
+          "$value": "#000000"
+        },
+        "heading": {
+          "$type": "color",
+          "$value": "#000000"
+        }
+      }
+    }
   }
 }

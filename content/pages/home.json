@@ -1,39 +1,353 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_k7z1qdk0zp",
+  "id": "pg_qh7vaye45z",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Katieteague is being set up.",
-    "noindex": true
+    "title": "Katie Teague",
+    "description": "Katie Teague Films for a more sane civilization. Visual storyteller exploring the metacrisis and the emergence of a more convivial world.",
+    "image": "media/2026/10/1-xk9z.webp"
   },
   "sections": [
     {
-      "id": "sec_d76ptbbsbk",
+      "id": "sec_6f5t19c6gn",
       "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
+        "mode": "grid",
+        "rows": {
+          "d": 139,
+          "m": 178
         },
-        "align": "center",
-        "width": "narrow"
+        "items": {
+          "blk_kf19kqx30w": {
+            "d": {
+              "x": 6,
+              "y": 1,
+              "w": 14,
+              "h": 13
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 16
+            }
+          },
+          "blk_52vqndbwzt": {
+            "d": {
+              "x": 1,
+              "y": 15,
+              "w": 12,
+              "h": 13,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 18,
+              "w": 8,
+              "h": 8,
+              "z": 1
+            }
+          },
+          "blk_cw5yqfwr3z": {
+            "d": {
+              "x": 1,
+              "y": 28,
+              "w": 12,
+              "h": 11,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 35,
+              "w": 8,
+              "h": 6,
+              "z": 3
+            }
+          },
+          "blk_529vtd1v3t": {
+            "d": {
+              "x": 13,
+              "y": 40,
+              "w": 12,
+              "h": 13,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 68,
+              "w": 8,
+              "h": 8,
+              "z": 3
+            }
+          },
+          "blk_8vtzadkgac": {
+            "d": {
+              "x": 13,
+              "y": 53,
+              "w": 12,
+              "h": 12,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 77,
+              "w": 8,
+              "h": 7,
+              "z": 4
+            }
+          },
+          "blk_7392jhnsmd": {
+            "d": {
+              "x": 1,
+              "y": 40,
+              "w": 12,
+              "h": 14,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 42,
+              "w": 8,
+              "h": 8,
+              "z": 2
+            }
+          },
+          "blk_md9qvnd73e": {
+            "d": {
+              "x": 13,
+              "y": 65,
+              "w": 12,
+              "h": 13,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 120,
+              "w": 8,
+              "h": 8,
+              "z": 4
+            }
+          },
+          "blk_4zyt6h2bnr": {
+            "d": {
+              "x": 1,
+              "y": 53,
+              "w": 12,
+              "h": 12,
+              "z": 3
+            },
+            "m": {
+              "x": 1,
+              "y": 51,
+              "w": 8,
+              "h": 7,
+              "z": 3
+            }
+          },
+          "blk_pq462x35zq": {
+            "d": {
+              "x": 13,
+              "y": 77,
+              "w": 12,
+              "h": 13,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 129,
+              "w": 8,
+              "h": 8,
+              "z": 5
+            }
+          },
+          "blk_717dvfc19m": {
+            "d": {
+              "x": 13,
+              "y": 89,
+              "w": 12,
+              "h": 12,
+              "z": 8
+            },
+            "m": {
+              "x": 1,
+              "y": 138,
+              "w": 8,
+              "h": 7,
+              "z": 8
+            }
+          },
+          "blk_scjxxfycxc": {
+            "d": {
+              "x": 1,
+              "y": 65,
+              "w": 12,
+              "h": 13,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 85,
+              "w": 8,
+              "h": 8,
+              "z": 4
+            }
+          },
+          "blk_ygvmm5hwwb": {
+            "d": {
+              "x": 13,
+              "y": 15,
+              "w": 12,
+              "h": 12,
+              "z": 2
+            },
+            "m": {
+              "x": 1,
+              "y": 27,
+              "w": 8,
+              "h": 7,
+              "z": 2
+            }
+          },
+          "blk_krf00s1ye7": {
+            "d": {
+              "x": 13,
+              "y": 28,
+              "w": 12,
+              "h": 13,
+              "z": 4
+            },
+            "m": {
+              "x": 1,
+              "y": 59,
+              "w": 8,
+              "h": 8,
+              "z": 4
+            }
+          },
+          "blk_pzvvdbn0s9": {
+            "d": {
+              "x": 1,
+              "y": 89,
+              "w": 12,
+              "h": 13,
+              "z": 7
+            },
+            "m": {
+              "x": 1,
+              "y": 102,
+              "w": 8,
+              "h": 8,
+              "z": 7
+            }
+          },
+          "blk_5gdrpyt4pm": {
+            "d": {
+              "x": 1,
+              "y": 101,
+              "w": 12,
+              "h": 14,
+              "z": 8
+            },
+            "m": {
+              "x": 1,
+              "y": 111,
+              "w": 8,
+              "h": 8,
+              "z": 8
+            }
+          },
+          "blk_fzkzwhj34t": {
+            "d": {
+              "x": 13,
+              "y": 101,
+              "w": 12,
+              "h": 13,
+              "z": 5
+            },
+            "m": {
+              "x": 1,
+              "y": 146,
+              "w": 8,
+              "h": 8,
+              "z": 5
+            }
+          },
+          "blk_wkq3xzn63z": {
+            "d": {
+              "x": 13,
+              "y": 115,
+              "w": 12,
+              "h": 12,
+              "z": 6
+            },
+            "m": {
+              "x": 1,
+              "y": 164,
+              "w": 8,
+              "h": 7,
+              "z": 6
+            }
+          },
+          "blk_7a2273xdaq": {
+            "d": {
+              "x": 1,
+              "y": 77,
+              "w": 12,
+              "h": 12,
+              "z": 7
+            },
+            "m": {
+              "x": 1,
+              "y": 94,
+              "w": 8,
+              "h": 7,
+              "z": 7
+            }
+          },
+          "blk_m1473een5b": {
+            "d": {
+              "x": 1,
+              "y": 115,
+              "w": 12,
+              "h": 13,
+              "z": 8
+            },
+            "m": {
+              "x": 1,
+              "y": 155,
+              "w": 8,
+              "h": 8,
+              "z": 8
+            }
+          },
+          "blk_4zja6124qd": {
+            "d": {
+              "x": 1,
+              "y": 128,
+              "w": 12,
+              "h": 12,
+              "z": 9
+            },
+            "m": {
+              "x": 1,
+              "y": 172,
+              "w": 8,
+              "h": 7,
+              "z": 9
+            }
+          }
+        },
+        "width": "wide"
       },
       "style": {
         "colorTheme": "light",
         "padding": {
-          "d": "xl",
-          "m": "lg"
-        },
-        "minHeight": {
-          "d": "70vh"
+          "d": "md",
+          "m": "sm"
         }
       },
       "blocks": [
         {
-          "id": "blk_rz96aw34a4",
+          "id": "blk_kf19kqx30w",
           "type": "text",
           "v": 1,
           "fields": {
@@ -43,12 +357,98 @@
                 {
                   "type": "heading",
                   "attrs": {
-                    "level": 1
+                    "level": 1,
+                    "preset": "h2"
                   },
                   "content": [
                     {
                       "type": "text",
-                      "text": "Katieteague"
+                      "text": "Films for a more sane civilization."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I am a visual storyteller aware of the strange, complex, “time between worlds” we are living through. I have a talent and passion for helping people, organizations and initiatives working in the space of systems change and cultural transformation — bringing forward an ecological civilization, a more convivial world-space broadly speaking. If that’s you, I can help you develop a potent visual narrative that transmits the good, true and beautiful you are helping bring into the world — be it a book, an idea, a project, a product, a business, a vision, a song."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "See work below."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "preset": "lead"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I am also independently creating new short films cut from long-form interviews under the channel called ",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "In The Making",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/in-the-making-films/"
+                          }
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can support the making of these films by joining "
+                    },
+                    {
+                      "type": "text",
+                      "text": "my Patreon",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.patreon.com/inthemakingbetweenworlds",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Subscribe to my newsletter (below) to receive the films in your inbox."
                     }
                   ]
                 }
@@ -57,11 +457,308 @@
           }
         },
         {
-          "id": "blk_x4c0xj0g6q",
-          "type": "text",
+          "id": "blk_52vqndbwzt",
+          "type": "video",
           "v": 1,
           "fields": {
-            "content": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=RZ0TXUjBFA8",
+            "caption": "My first feature length documentary that won best Social Issue Documentary at the Atlanta Docfest in 2013 and was hailed by Films for Action as one of “The Top 100 Documentaries We Can Use to Change…"
+          }
+        },
+        {
+          "id": "blk_cw5yqfwr3z",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/954367118",
+            "caption": "A trailer for Arthur Brock’s Currency Masterclass."
+          }
+        },
+        {
+          "id": "blk_529vtd1v3t",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=TPVo0pOB2yQ",
+            "caption": "Technology matters. The consciousness behind the development of technology matters. This is why I teamed up with Holo (and Holochain), because of their groundbreaking work in the world of WEB 3.0."
+          }
+        },
+        {
+          "id": "blk_8vtzadkgac",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=2FJL3ibnZlY",
+            "caption": "I worked for Holo (and Holochain), through their successful IndieGoGo campaign and their ICO (Initial Community Offering)."
+          }
+        },
+        {
+          "id": "blk_7392jhnsmd",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=AyCeE3t5Mu0",
+            "caption": "A short promo documentary for Accelerating Appalachia. ACAP is the first regenerative and business accelerator program incentivizing farmers, growers, and agriculture-based businesses in the adoption…"
+          }
+        },
+        {
+          "id": "blk_md9qvnd73e",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=CqLBV8Q0arE",
+            "caption": "A breathtaking short documentary about the Nepal pilgrimage for Alliance for the Earth and the Earth Treasure Vase Global Healing Project."
+          }
+        },
+        {
+          "id": "blk_4zyt6h2bnr",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/475305222",
+            "caption": "Laura Loescher’s healing origin story that lead her to the practice of Earth Altars."
+          }
+        },
+        {
+          "id": "blk_pq462x35zq",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/394017559",
+            "caption": "My second feature length documentary RE:MEMBER, about the crucial importance of re-membering how to grieve as people and as a culture that has become grief illiterate."
+          }
+        },
+        {
+          "id": "blk_717dvfc19m",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/235829612",
+            "caption": "From an interview with Joe Brewer author of Design Pathways for Regenerating Earth."
+          }
+        },
+        {
+          "id": "blk_scjxxfycxc",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/855375193",
+            "caption": "A trailer for a short documentary for Action Research +. AR+ Supports Action Researchers for Transformations at a time of eco-social crisis."
+          }
+        },
+        {
+          "id": "blk_ygvmm5hwwb",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=_jI5JdlZSXE",
+            "caption": "My film for Perspectiva on the social innovation known as the Antidebate."
+          }
+        },
+        {
+          "id": "blk_krf00s1ye7",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=kh1UVlIKvNg",
+            "caption": "A long-form interview with Eric Harris-Braun about aliveness, grammatic capacities, DNA for social organisms, Holochain & The Weave"
+          }
+        },
+        {
+          "id": "blk_pzvvdbn0s9",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/305271759",
+            "caption": "Tolu Tharling is a 400 year old Nyingma Dzogchen monastery in Eastern Nepal. Head Lama Ngawang Tsultrim holds the family lineage of 7 generations."
+          }
+        },
+        {
+          "id": "blk_5gdrpyt4pm",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=Kir_1mX7OSE",
+            "caption": "Beautiful interview with Stan Rushworth. Stan is a teacher of Native American literature and the author of Sam Woods: American Healing, Going to Water: The Journal of Beginning Rain, Diaspora’s Child…"
+          }
+        },
+        {
+          "id": "blk_fzkzwhj34t",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=roQRMsAhqi8",
+            "caption": "Dana Carman Integral Consulting is dedicated to supporting purpose-driven leaders and organizations into greater alignment and impact in their service to this time of transition."
+          }
+        },
+        {
+          "id": "blk_wkq3xzn63z",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/855399690",
+            "caption": "A trailer for educator Ahmed Afzaal’s book Teaching at Twilight: The Meaning of Education in the Age of Collapse."
+          }
+        },
+        {
+          "id": "blk_7a2273xdaq",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/231556463",
+            "caption": "From an interview with Joe Brewer author of Design Pathways for Regenerating Earth."
+          }
+        },
+        {
+          "id": "blk_m1473een5b",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=QS58XZoX7kA",
+            "caption": "I was one of the many filmmakers collaborating on the unprecedented 99%: The Occupy Wall Street Collaborative Film by Audrey Ewell and the late Aaron Aites."
+          }
+        },
+        {
+          "id": "blk_4zja6124qd",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=d40MDt0gwcc",
+            "caption": "A 20 minute exploration with Sabine Mead into Continuum Movement, founded over 40 years ago by Emilie Conrad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_y97v4qbnvg",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 9,
+          "m": 10
+        },
+        "items": {
+          "blk_z83r0j4qy1": {
+            "d": {
+              "x": 5,
+              "y": 2,
+              "w": 16,
+              "h": 8,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 10,
+              "z": 1
+            }
+          }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/whidbey-institute-lab-2-t76f.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.8
+          }
+        },
+        "minHeight": {
+          "d": "90vh",
+          "m": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_z83r0j4qy1",
+          "type": "quote",
+          "v": 1,
+          "fields": {
+            "quote": {
               "type": "doc",
               "content": [
                 {
@@ -69,13 +766,65 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "One world is now gone and a new one has yet to emerge; we are now at the beginning of the beginning. We are living in the liminal: a time of pure potential and change, a time between worlds. This is it: we have arrived at the end of the world. Finally. Now we can start to build a new one."
                     }
                   ]
                 }
               ]
+            },
+            "attribution": "Zak Stein"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_72ndk4kgve",
+      "layout": {
+        "mode": "grid",
+        "rows": {
+          "d": 6,
+          "m": 7
+        },
+        "items": {
+          "blk_rj6d2ba65k": {
+            "d": {
+              "x": 2,
+              "y": 1,
+              "w": 22,
+              "h": 6,
+              "z": 1
+            },
+            "m": {
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 7,
+              "z": 1
             }
           }
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light-accent",
+        "padding": {
+          "d": "md",
+          "m": "sm"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_rj6d2ba65k",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "Email Address",
+            "buttonLabel": "Sign Up",
+            "successMessage": "Thank you!",
+            "description": "Sign up to receive updates and IN THE MAKING films fresh from the cutting room."
+          },
+          "variant": "stacked"
         }
       ]
     }
